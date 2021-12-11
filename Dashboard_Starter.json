@@ -2,7 +2,7 @@
   "dashboardMetadata": {
     "name": "Template",
     "shared": true,
-    "owner": "QZFDWS",
+    "owner": "qzfdws",
     "dashboardFilter": {
       "timeframe": "l_30_DAYS"
     }

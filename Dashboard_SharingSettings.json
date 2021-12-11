@@ -1,0 +1,26 @@
+{
+  "id": "INSERT_ID_HERE",
+  "enabled": "true",
+  "preset": "false",
+  "permissions": [
+    {
+      "type": "ALL",
+      "permission": "VIEW"
+    },
+    {
+      "id": "wzr1ry",
+      "type": "USER",
+      "permission": "EDIT"
+    },
+    {
+      "id": "lzxntb",
+      "type": "USER",
+      "permission": "EDIT"
+    }
+  ],
+  "publicAccess": {
+    "managementZoneIds": [
+      "default"
+    ]
+  }
+}

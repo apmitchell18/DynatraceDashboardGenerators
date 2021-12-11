@@ -1,6 +1,7 @@
 {
   "dashboard_template_file": "Dashboard_Starter.json",
   "tile_template_file": "Tileset_PerformanceTrends_Managed.json",
+  "sharing_settings_file": "Dashboard_SharingSettings.json",
   "dashboards_to_generate": [
     {
       "dashboard_data_file": "BuickCORE_MonitorAndStepIDs.csv",
