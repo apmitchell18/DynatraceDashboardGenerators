@@ -75,11 +75,7 @@
                 "nestedFilters": [],
                 "criteria": [
                   {
-                    "value": "SYNTHETIC_TEST_STEP-59350EEE25D97531",
-                    "evaluator": "IN"
-                  },
-                  {
-                    "value": "SYNTHETIC_TEST_STEP-396054B4066733E7",
+                    "value": "INSERT_SYNTHETIC_STEP_ID",
                     "evaluator": "IN"
                   }
                 ]
