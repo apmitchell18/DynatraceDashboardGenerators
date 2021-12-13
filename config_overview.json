@@ -28,27 +28,51 @@
       "existing_id": "N/A"
     },
     {
-      "dashboard_data_file": "ChevroletMOVDesktop_MonitorAndStepIDs.csv",
+      "dashboard_data_file": "ChevroletMOVDesktop_MonitorAndStepIDs_1.csv",
       "is_new": true,
-      "new_dashboard_name": "Trends - Chevrolet Model Overview - Desktop",
+      "new_dashboard_name": "Trends - Chevrolet Model Overview - Desktop - 2",
       "existing_id": "N/A"
     },
     {
-      "dashboard_data_file": "ChevroletMOVMobile_MonitorAndStepIDs.csv",
+      "dashboard_data_file": "ChevroletMOVDesktop_MonitorAndStepIDs_2.csv",
       "is_new": true,
-      "new_dashboard_name": "Trends - Chevrolet Model Overview - Mobile",
+      "new_dashboard_name": "Trends - Chevrolet Model Overview - Desktop - 2",
       "existing_id": "N/A"
     },
     {
-      "dashboard_data_file": "GMCMOVDesktop_MonitorAndStepIDs.csv",
+      "dashboard_data_file": "ChevroletMOVMobile_MonitorAndStepIDs_1.csv",
       "is_new": true,
-      "new_dashboard_name": "Trends - GMC Model Overview - Desktop",
+      "new_dashboard_name": "Trends - Chevrolet Model Overview - Mobile - 1",
       "existing_id": "N/A"
     },
     {
-      "dashboard_data_file": "GMCMOVMobile_MonitorAndStepIDs.csv",
+      "dashboard_data_file": "ChevroletMOVMobile_MonitorAndStepIDs_2.csv",
       "is_new": true,
-      "new_dashboard_name": "Trends - GMC Model Overview - Mobile",
+      "new_dashboard_name": "Trends - Chevrolet Model Overview - Mobile - 2",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "GMCMOVDesktop_MonitorAndStepIDs_1.csv",
+      "is_new": true,
+      "new_dashboard_name": "Trends - GMC Model Overview - Desktop - 1",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "GMCMOVDesktop_MonitorAndStepIDs_2.csv",
+      "is_new": true,
+      "new_dashboard_name": "Trends - GMC Model Overview - Desktop - 2",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "GMCMOVMobile_MonitorAndStepIDs_1.csv",
+      "is_new": true,
+      "new_dashboard_name": "Trends - GMC Model Overview - Mobile - 1",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "GMCMOVMobile_MonitorAndStepIDs_2.csv",
+      "is_new": true,
+      "new_dashboard_name": "Trends - GMC Model Overview - Mobile - 2",
       "existing_id": "N/A"
     }
   ]
