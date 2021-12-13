@@ -5,27 +5,28 @@
   "dashboards_to_generate": [
     {
       "dashboard_data_file": "BuickCORE_MonitorAndStepIDs.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Trends - Buick Core",
-      "existing_id": "N/A"
+      "existing_id": "c6d4b97e-60dc-474f-80f4-52c6d6548dd9"
     },
     {
       "dashboard_data_file": "CadillacCORE_MonitorAndStepIDs.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Trends - Cadillac Core",
-      "existing_id": "N/A"
+      "existing_id": "622f580a-e51a-40e3-801e-d94e5eaf87d1"
     },
     {
       "dashboard_data_file": "ChevroletCORE_MonitorAndStepIDs.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Trends - Chevrolet Core",
-      "existing_id": "N/A"
+      "existing_id": "0ec446e5-8719-49f0-9c29-3a29c7bb3cc6"
     },
     {
       "dashboard_data_file": "GMCCORE_MonitorAndStepIDs.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Trends - GMC Core",
-      "existing_id": "N/A"
+      "existing_id": "edbff2c0-1b9d-4aaa-a866-3b0042fd6b0f
+"
     }
   ]
 }
