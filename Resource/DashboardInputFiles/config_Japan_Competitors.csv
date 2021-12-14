@@ -1,0 +1,26 @@
+0	Desktop	0	0
+1	Mobile	0	836
+2	Cadillac - Japan - Home	38	0	usersession.browserMonitorName Like "*Cadillac Japan - *" and usersession.browserMonitorName Like "*- GMAS"
+3	Cadillac - Japan - Desktop	38	646	Cadillac,Japan
+4	Cadillac - Japan - Home 	38	836	usersession.browserMonitorName Like "*Cadillac Mobile Japan - *"
+5	Cadillac - Japan - Mobile	38	1482	Cadillac,Japan,Mobile
+2	Chevrolet - Japan - Home	190	0	usersession.browserMonitorName Like "*Chevrolet Japan - *" and usersession.browserMonitorName Like "*- GMAS"
+3	Chevrolet - Japan - Desktop	190	646	Chevrolet,Japan
+4	Chevrolet - Japan - Home 	190	836	usersession.browserMonitorName Like "*Chevrolet Mobile Japan - *"
+5	Chevrolet - Japan - Mobile	190	1482	Chevrolet,Japan,Mobile
+2	Audi - Japan - Home	342	0	usersession.browserMonitorName Like "*Audi Japan - *" and usersession.browserMonitorName Like "*- GMAS COMP"
+3	Audi - Japan - Desktop	342	646	Audi,Japan
+4	Audi - Japan - Home 	342	836	usersession.browserMonitorName Like "*Audi Mobile Japan - *"
+5	Audi - Japan - Mobile	342	1482	Audi,Japan,Mobile
+2	Land Rover - Japan - Home	494	0	usersession.browserMonitorName Like "*Land Rover Japan - *" and usersession.browserMonitorName Like "*- GMAS COMP"
+3	Land Rover - Japan - Desktop	494	646	Land Rover,Japan
+4	Land Rover - Japan - Home 	494	836	usersession.browserMonitorName Like "*Land Rover Mobile Japan - *"
+5	Land Rover - Japan - Mobile	494	1482	Land Rover,Japan,Mobile
+2	Lexus - Japan - Home	646	0	usersession.browserMonitorName Like "*Lexus Japan - *" and usersession.browserMonitorName Like "*- GMAS COMP"
+3	Lexus - Japan - Desktop	646	646	Lexus,Japan
+4	Lexus - Japan - Home 	646	836	usersession.browserMonitorName Like "*Lexus Mobile Japan - *"
+5	Lexus - Japan - Mobile	646	1482	Lexus,Japan,Mobile
+2	Mercedes Benz - Japan - Home	798	0	usersession.browserMonitorName Like "*Mercedes Benz Japan - *" and usersession.browserMonitorName Like "*- GMAS COMP"
+3	Mercedes Benz - Japan - Desktop	798	646	Mercedes Benz,Japan
+4	Mercedes Benz - Japan - Home 	798	836	usersession.browserMonitorName Like "*Mercedes Benz Mobile Japan - *"
+5	Mercedes Benz - Japan - Mobile	798	1482	Mercedes Benz,Japan,Mobile

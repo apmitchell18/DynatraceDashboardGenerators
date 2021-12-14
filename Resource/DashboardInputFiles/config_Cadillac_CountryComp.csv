@@ -1,0 +1,74 @@
+0	Desktop	0	0
+1	Mobile	0	836
+2	Cadillac - US - Home	38	0	usersession.browserMonitorName Like "*Cadillac*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
+3	Cadillac - US - Desktop	38	646	Cadillac,CORE
+4	Cadillac - US - Home 	38	836	usersession.browserMonitorName Like "*Cadillac*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
+5	Cadillac - US - Mobile	38	1482	Cadillac,CORE,Mobile
+2	Cadillac - Canada - Home	190	0	usersession.browserMonitorName Like "*Cadillac Canada EN - *"
+3	Cadillac - Canada - Desktop	190	646	Cadillac,Canada,EN
+4	Cadillac - Canada - Home 	190	836	usersession.browserMonitorName Like "*Cadillac Mobile Canada EN - *"
+5	Cadillac - Canada - Mobile	190	1482	Cadillac,Canada,EN,Mobile
+2	Cadillac - Mexico - Home	342	0	usersession.browserMonitorName Like "*Cadillac Mexico - *"
+3	Cadillac - Mexico - Desktop	342	646	Cadillac,Mexico
+4	Cadillac - Mexico - Home 	342	836	usersession.browserMonitorName Like "*Cadillac Mobile Mexico - *"
+5	Cadillac - Mexico - Mobile	342	1482	Cadillac,Mexico,Mobile
+2	Cadillac - France - Home	494	0	usersession.browserMonitorName Like "*Cadillac France - *"
+3	Cadillac - France - Desktop	494	646	Cadillac,France
+4	Cadillac - France - Home 	494	836	usersession.browserMonitorName Like "*Cadillac Mobile France - *"
+5	Cadillac - France - Mobile	494	1482	Cadillac,France,Mobile
+2	Cadillac - Germany - Home	646	0	usersession.browserMonitorName Like "*Cadillac Germany - *"
+3	Cadillac - Germany - Desktop	646	646	Cadillac,Germany
+4	Cadillac - Germany - Home 	646	836	usersession.browserMonitorName Like "*Cadillac Mobile Germany - *"
+5	Cadillac - Germany - Mobile	646	1482	Cadillac,Germany,Mobile
+2	Cadillac - Italy - Home	798	0	usersession.browserMonitorName Like "*Cadillac Italy - *"
+3	Cadillac - Italy - Desktop	798	646	Cadillac,Italy
+4	Cadillac - Italy - Home 	798	836	usersession.browserMonitorName Like "*Cadillac Mobile Italy - *"
+5	Cadillac - Italy - Mobile	798	1482	Cadillac,Italy,Mobile
+2	Cadillac - Russia - Home	950	0	usersession.browserMonitorName Like "*Cadillac Russia - *"
+3	Cadillac - Russia - Desktop	950	646	Cadillac,Russia
+4	Cadillac - Russia - Home 	950	836	usersession.browserMonitorName Like "*Cadillac Mobile Russia - *"
+5	Cadillac - Russia - Mobile	950	1482	Cadillac,Russia,Mobile
+2	Cadillac - Spain - Home	1102	0	usersession.browserMonitorName Like "*Cadillac Spain - *"
+3	Cadillac - Spain - Desktop	1102	646	Cadillac,Spain
+4	Cadillac - Spain - Home 	1102	836	usersession.browserMonitorName Like "*Cadillac Mobile Spain - *"
+5	Cadillac - Spain - Mobile	1102	1482	Cadillac,Spain,Mobile
+2	Cadillac - United Kingdom - Home	1254	0	usersession.browserMonitorName Like "*Cadillac United Kingdom - *"
+3	Cadillac - United Kingdom - Desktop	1254	646	Cadillac,United Kingdom
+4	Cadillac - United Kingdom - Home 	1254	836	usersession.browserMonitorName Like "*Cadillac Mobile United Kingdom - *"
+5	Cadillac - United Kingdom - Mobile	1254	1482	Cadillac,United Kingdom,Mobile
+2	Cadillac - Japan - Home	1406	0	usersession.browserMonitorName Like "*Cadillac Japan - *"
+3	Cadillac - Japan - Desktop	1406	646	Cadillac,Japan
+4	Cadillac - Japan - Home 	1406	836	usersession.browserMonitorName Like "*Cadillac Mobile Japan - *"
+5	Cadillac - Japan - Mobile	1406	1482	Cadillac,Japan,Mobile
+2	Cadillac - Bahrain - Home	1558	0	usersession.browserMonitorName Like "*Cadillac Bahrain - *"
+3	Cadillac - Bahrain - Desktop	1558	646	Cadillac,Bahrain
+4	Cadillac - Bahrain - Home 	1558	836	usersession.browserMonitorName Like "*Cadillac Mobile Bahrain - *"
+5	Cadillac - Bahrain - Mobile	1558	1482	Cadillac,Bahrain,Mobile
+2	Cadillac - Jordan - Home	1710	0	usersession.browserMonitorName Like "*Cadillac Jordan*"
+3	Cadillac - Jordan - Desktop	1710	646	Cadillac,Jordan
+4	Cadillac - Jordan - Home 	1710	836	usersession.browserMonitorName Like "*Cadillac Mobile Jordan*"
+5	Cadillac - Jordan - Mobile	1710	1482	Cadillac,Jordan,Mobile
+2	Cadillac - Kuwait - Home	1862	0	usersession.browserMonitorName Like "*Cadillac Kuwait - *"
+3	Cadillac - Kuwait - Desktop	1862	646	Cadillac,Kuwait
+4	Cadillac - Kuwait - Home 	1862	836	usersession.browserMonitorName Like "*Cadillac Mobile Kuwait - *"
+5	Cadillac - Kuwait - Mobile	1862	1482	Cadillac,Kuwait,Mobile
+2	Cadillac - Lebanon - Home	2014	0	usersession.browserMonitorName Like "*Cadillac Lebanon - *"
+3	Cadillac - Lebanon - Desktop	2014	646	Cadillac,Lebanon
+4	Cadillac - Lebanon - Home 	2014	836	usersession.browserMonitorName Like "*Cadillac Mobile Lebanon - *"
+5	Cadillac - Lebanon - Mobile	2014	1482	Cadillac,Lebanon,Mobile
+2	Cadillac - Oman - Home	2470	0	usersession.browserMonitorName Like "*Cadillac Oman*"
+3	Cadillac - Oman - Desktop	2470	646	Cadillac,Oman
+4	Cadillac - Oman - Home 	2470	836	usersession.browserMonitorName Like "*Cadillac Mobile Oman*"
+5	Cadillac - Oman - Mobile	2470	1482	Cadillac,Oman,Mobile
+2	Cadillac - Qatar - Home	2622	0	usersession.browserMonitorName Like "*Cadillac Qatar*"
+3	Cadillac - Qatar - Desktop	2622	646	Cadillac,Qatar
+4	Cadillac - Qatar - Home 	2622	836	usersession.browserMonitorName Like "*Cadillac Mobile Qatar*"
+5	Cadillac - Qatar - Mobile	2622	1482	Cadillac,Qatar,Mobile
+2	Cadillac - Saudi Arabia - Home	2166	0	usersession.browserMonitorName Like "*Cadillac Saudi Arabia - *"
+3	Cadillac - Saudi Arabia - Desktop	2166	646	Cadillac,Saudi Arabia
+4	Cadillac - Saudi Arabia - Home 	2166	836	usersession.browserMonitorName Like "*Cadillac Mobile Saudi Arabia - *"
+5	Cadillac - Saudi Arabia - Mobile	2166	1482	Cadillac,Saudi Arabia,Mobile
+2	Cadillac - United Arab Emirates - Home	2318	0	usersession.browserMonitorName Like "*Cadillac United Arab Emirates - *"
+3	Cadillac - United Arab Emirates - Desktop	2318	646	Cadillac,United Arab Emirates
+4	Cadillac - United Arab Emirates - Home 	2318	836	usersession.browserMonitorName Like "*Cadillac Mobile United Arab Emirates - *"
+5	Cadillac - United Arab Emirates - Mobile	2318	1482	Cadillac,United Arab Emirates,Mobile

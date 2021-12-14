@@ -1,0 +1,22 @@
+0	Desktop	0	0
+1	Mobile	0	836
+2	Chevrolet - Argentina - Home	38	0	usersession.browserMonitorName Like "*Chevrolet Argentina - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+3	Chevrolet - Argentina - Desktop	38	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Argentina
+4	Chevrolet - Argentina - Home 	38	836	usersession.browserMonitorName Like "*Chevrolet Mobile Argentina - *"
+5	Chevrolet - Argentina - Mobile	38	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Argentina,Device (Synthetic):Mobile
+2	Citroen - Argentina - Home	190	0	usersession.browserMonitorName Like "*Citroen Argentina - *"
+3	Citroen - Argentina - Desktop	190	646	Synthetic - GSMC,Brand (Synthetic):Citroen,Country (Synthetic):Argentina
+4	Citroen - Argentina - Home 	190	836	usersession.browserMonitorName Like "*Citroen Mobile Argentina - *"
+5	Citroen - Argentina - Mobile	190	1482	Synthetic - GSMC,Brand (Synthetic):Citroen,Country (Synthetic):Argentina,Device (Synthetic):Mobile
+2	Ford - Argentina - Home	342	0	usersession.browserMonitorName Like "*Ford Argentina - *"
+3	Ford - Argentina - Desktop	342	646	Synthetic - GSMC,Brand (Synthetic):Ford,Country (Synthetic):Argentina
+4	Ford - Argentina - Home 	342	836	usersession.browserMonitorName Like "*Ford Mobile Argentina - *"
+5	Ford - Argentina - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):Ford,Country (Synthetic):Argentina,Device (Synthetic):Mobile
+2	Renault - Argentina - Home	494	0	usersession.browserMonitorName Like "*Renault Argentina - *"
+3	Renault - Argentina - Desktop	494	646	Synthetic - GSMC,Brand (Synthetic):Renault,Country (Synthetic):Argentina
+4	Renault - Argentina - Home 	494	836	usersession.browserMonitorName Like "*Renault Mobile Argentina - *"
+5	Renault - Argentina - Mobile	494	1482	Synthetic - GSMC,Brand (Synthetic):Renault,Country (Synthetic):Argentina,Device (Synthetic):Mobile
+2	VW - Argentina - Home	646	0	usersession.browserMonitorName Like "*VW Argentina - *"
+3	VW - Argentina - Desktop	646	646	Synthetic - GSMC,Brand (Synthetic):VW,Country (Synthetic):Argentina
+4	VW - Argentina - Home 	646	836	usersession.browserMonitorName Like "*VW Mobile Argentina - *"
+5	VW - Argentina - Mobile	646	1482	Synthetic - GSMC,Brand (Synthetic):VW,Country (Synthetic):Argentina,Device (Synthetic):Mobile
