@@ -4,13 +4,13 @@
   "sharing_settings_file": "Dashboard_SharingSettings.json",
   "dashboards_to_generate": [
     {
-      "dashboard_data_file": "dashConfigTest.csv",
+      "dashboard_data_file": "input_test.csv",
       "is_new": true,
       "new_dashboard_name": "Resource Dashboard Generator Test",
       "existing_id": "N/A"
     },
     {
-      "dashboard_data_file": "dashConfigTest.csv",
+      "dashboard_data_file": "input_test.csv",
       "is_new": false,
       "new_dashboard_name": "Resource Dashboard Overwrite Test",
       "existing_id": "f64bbf91-0924-4fbd-9230-5d4f780ead9b"
