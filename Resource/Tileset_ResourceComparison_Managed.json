@@ -1,0 +1,139 @@
+{
+  "tiles": [
+    {
+      "name": "Desktop",
+      "tileType": "HEADER",
+      "configured": true,
+      "bounds": {
+        "top": 0,
+        "left": 0,
+        "width": 304,
+        "height": 38
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      }
+    },
+    {
+      "name": "Mobile",
+      "tileType": "HEADER",
+      "configured": true,
+      "bounds": {
+        "top": 0,
+        "left": 836,
+        "width": 304,
+        "height": 38
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      }
+    },
+    {
+      "name": "User Sessions Query",
+      "tileType": "DTAQL",
+      "configured": true,
+      "bounds": {
+        "top": 38,
+        "left": 0,
+        "width": 646,
+        "height": 152
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      },
+      "customName": "INSERT_NAME",
+      "query": "INSERT_QUERY",
+      "type": "TABLE",
+      "limit": 50
+    },
+    {
+      "name": "SYNTHETIC MONITOR OVERVIEW",
+      "tileType": "SYNTHETIC_TESTS",
+      "configured": true,
+      "bounds": {
+        "top": 38,
+        "left": 646,
+        "width": 152,
+        "height": 152
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      },
+      "filterConfig": {
+        "type": "WEB_CHECK",
+        "customName": "INSERT_NAME",
+        "defaultName": "Tagged Desktop synthetic monitor",
+        "chartConfig": {
+          "legendShown": true,
+          "type": "TIMESERIES",
+          "series": [],
+          "resultMetadata": {}
+        },
+        "filtersPerEntityType": {
+          "WEB_CHECK": {
+            "AUTO_TAGS": [],
+            "WEBCHECK_DEVICE_PROFILE": [
+              "Desktop"
+            ]
+          }
+        }
+      },
+      "chartVisible": true
+    },
+    {
+      "name": "User Sessions Query",
+      "tileType": "DTAQL",
+      "configured": true,
+      "bounds": {
+        "top": 38,
+        "left": 836,
+        "width": 646,
+        "height": 152
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      },
+      "customName": "INSERT_NAME",
+      "query": "INSERT_QUERY",
+      "type": "TABLE",
+      "limit": 50
+    },
+    {
+      "name": "",
+      "tileType": "SYNTHETIC_TESTS",
+      "configured": true,
+      "bounds": {
+        "top": 38,
+        "left": 1482,
+        "width": 152,
+        "height": 152
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      },
+      "filterConfig": {
+        "type": "WEB_CHECK",
+        "customName": "INSERT_NAME",
+        "defaultName": "Tagged synthetic monitor",
+        "chartConfig": {
+          "legendShown": true,
+          "type": "TIMESERIES",
+          "series": [],
+          "resultMetadata": {}
+        },
+        "filtersPerEntityType": {
+          "WEB_CHECK": {
+            "AUTO_TAGS": []
+          }
+        }
+      },
+      "chartVisible": true
+    }
+  ]
+}

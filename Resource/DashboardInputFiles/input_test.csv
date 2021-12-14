@@ -1,0 +1,18 @@
+0	Desktop	0	0
+1	Mobile	0	836
+2	Buick - Home	38	0	usersession.browserMonitorName Like "*Buick*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
+3	Buick - Desktop - CORE	38	646	Buick,CORE
+4	Buick - Home 	38	836	usersession.browserMonitorName Like "*Buick*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
+5	Buick - Mobile - CORE	38	1482	Buick,CORE,Mobile
+2	Cadillac - Home	190	0	usersession.browserMonitorName Like "*Cadillac*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
+3	Cadillac - Desktop - CORE	190	646	Cadillac,CORE
+4	Cadillac - Home 	190	836	usersession.browserMonitorName Like "*Cadillac*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
+5	Cadillac - Mobile - CORE	190	1482	Cadillac,CORE,Mobile
+2	Chevrolet - Home	342	0	usersession.browserMonitorName Like "*Chevrolet*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
+3	Chevrolet - Desktop - CORE	342	646	Chevrolet,CORE
+4	Chevrolet - Home 	342	836	usersession.browserMonitorName Like "*Chevrolet*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
+5	Chevrolet - Mobile - CORE	342	1482	Chevrolet,CORE,Mobile
+2	GMC - Home	494	0	usersession.browserMonitorName Like "*GMC*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
+3	GMC - Desktop - CORE	494	646	GMC,CORE
+4	GMC - Home 	494	836	usersession.browserMonitorName Like "*GMC*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
+5	GMC - Mobile - CORE	494	1482	GMC,CORE,Mobile
