@@ -5,9 +5,9 @@
   "dashboards_to_generate": [
     {
       "dashboard_data_file": "config_US_Competitors.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Comparison - GM and Competitors - US",
-      "existing_id": "N/A"
+      "existing_id": "46037d1a-1b4e-471c-8ab0-053b17dc28a6"
     },
     {
       "dashboard_data_file": "config_Argentina_Competitors.csv",
@@ -17,27 +17,27 @@
     },
     {
       "dashboard_data_file": "config_Brazil_Competitors.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Comparison - GM and Competitors - Brazil",
-      "existing_id": "N/A"
+      "existing_id": "4e0fbb1b-3e78-4b30-a6de-24ed4dde4c3e"
     },
     {
       "dashboard_data_file": "config_Canada_Competitors.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Comparison - GM and Competitors - Canada",
-      "existing_id": "N/A"
+      "existing_id": "2ce0880e-858f-4aed-8c8e-936ea2563aaf"
     },
     {
       "dashboard_data_file": "config_Japan_Competitors.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Comparison - GM and Competitors - Japan",
-      "existing_id": "N/A"
+      "existing_id": "16f1e10f-bc4e-472d-8465-5f934edccce9"
     },
     {
       "dashboard_data_file": "config_Russia_Competitors.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Comparison - GM and Competitors - Russia",
-      "existing_id": "N/A"
+      "existing_id": "0d5d2102-7cc9-488f-9deb-e2d2c30c7790"
     },
     {
       "dashboard_data_file": "config_Saudi_Arabia_Competitors.csv",
