@@ -5,9 +5,9 @@
   "dashboards_to_generate": [
     {
       "dashboard_data_file": "config_Argentina_Competitors.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Comparison - GM and Competitors - Argentina",
-      "existing_id": "N/A"
+      "existing_id": "44238b48-de3f-4e10-b80b-cd8b57e38591"
     }
   ]
 }
