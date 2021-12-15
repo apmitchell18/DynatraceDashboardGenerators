@@ -5,45 +5,45 @@
   "dashboards_to_generate": [
     {
       "dashboard_data_file": "config_Saudi_Arabia_Competitors.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Comparison - GM and Competitors - Saudi Arabia",
-      "existing_id": "N/A"
+      "existing_id": "98b52232-5b9b-498b-a4b6-b6a791ef38f6"
     },
     {
       "dashboard_data_file": "config_UAE_Competitors.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Comparison - GM and Competitors - United Arab Emirates",
-      "existing_id": "N/A"
+      "existing_id": "5172ab63-5178-46c4-9fbb-fbfe2209d754"
     },
     {
       "dashboard_data_file": "config_Buick_CountryComp.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Performance - Buick - All Markets",
-      "existing_id": "N/A"
+      "existing_id": "e9d92f4e-1e16-4d1d-a14f-78771cc44174"
     },
     {
       "dashboard_data_file": "config_Cadillac_CountryComp.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Performance - Cadillac - All Markets",
-      "existing_id": "N/A"
+      "existing_id": "de4d1c5b-ac8b-4801-a3ab-6751b5c4b5e1"
     },
     {
       "dashboard_data_file": "config_Chevrolet_CountryComp.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Performance - Chevrolet - All Markets",
-      "existing_id": "N/A"
+      "existing_id": "73f34611-7bef-4720-b8d3-877519d98a27"
     },
     {
       "dashboard_data_file": "config_GMC_CountryComp.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Performance - GMC - All Markets",
-      "existing_id": "N/A"
+      "existing_id": "b28b2e69-af14-4936-ab73-52d45370f804"
     },
     {
       "dashboard_data_file": "config_GM_country_comp.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Resource Performance - GM Markets",
-      "existing_id": "N/A"
+      "existing_id": "edc5d3d7-8704-4858-a80e-845c2b59e8b8"
     }
   ]
 }
