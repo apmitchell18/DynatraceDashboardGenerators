@@ -1,102 +1,98 @@
 0	Desktop	0	0
 1	Mobile	0	836
-2	Buick - US - Home	38	0	usersession.browserMonitorName Like "*Buick*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
-3	Buick - US - Desktop	38	646	Buick,CORE
-4	Buick - US - Home 	38	836	usersession.browserMonitorName Like "*Buick*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
-5	Buick - US - Mobile	38	1482	Buick,CORE,Mobile
 2	Chevrolet - US - Home	190	0	usersession.browserMonitorName Like "*Chevrolet*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
-3	Chevrolet - US - Desktop	190	646	Chevrolet,CORE
+3	Chevrolet - US - Desktop	190	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Type (Synthetic):CORE
 4	Chevrolet - US - Home 	190	836	usersession.browserMonitorName Like "*Chevrolet*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
-5	Chevrolet - US - Mobile	190	1482	Chevrolet,CORE,Mobile
+5	Chevrolet - US - Mobile	190	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Type (Synthetic):CORE,Device (Synthetic):Mobile
 2	Chevrolet - Canada - Home	342	0	usersession.browserMonitorName Like "*Chevrolet Canada EN - *"
-3	Chevrolet - Canada - Desktop	342	646	Chevrolet,Canada,EN
+3	Chevrolet - Canada - Desktop	342	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Canada,Language (Synthetic):EN
 4	Chevrolet - Canada - Home 	342	836	usersession.browserMonitorName Like "*Chevrolet Mobile Canada EN - *"
-5	Chevrolet - Canada - Mobile	342	1482	Chevrolet,Canada,EN,Mobile
+5	Chevrolet - Canada - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	Chevrolet - Mexico - Home	494	0	usersession.browserMonitorName Like "*Chevrolet Mexico - *"
-3	Chevrolet - Mexico - Desktop	494	646	Chevrolet,Mexico
+3	Chevrolet - Mexico - Desktop	494	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Mexico
 4	Chevrolet - Mexico - Home 	494	836	usersession.browserMonitorName Like "*Chevrolet Mobile Mexico - *"
-5	Chevrolet - Mexico - Mobile	494	1482	Chevrolet,Mexico,Mobile
-2	Chevrolet - Argentina - Home	646	0	usersession.browserMonitorName Like "*Chevrolet Argentina - *" and usersession.browserMonitorName Like "*- GMSA"
-3	Chevrolet - Argentina - Desktop	646	646	Chevrolet,Argentina
+5	Chevrolet - Mexico - Mobile	494	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Mexico,Device (Synthetic):Mobile
+2	Chevrolet - Argentina - Home	646	0	usersession.browserMonitorName Like "*Chevrolet Argentina - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+3	Chevrolet - Argentina - Desktop	646	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Argentina
 4	Chevrolet - Argentina - Home 	646	836	usersession.browserMonitorName Like "*Chevrolet Mobile Argentina - *"
-5	Chevrolet - Argentina - Mobile	646	1482	Chevrolet,Argentina,Mobile
-2	Chevrolet - Brazil - Home	798	0	usersession.browserMonitorName Like "*Chevrolet Brazil - *" and usersession.browserMonitorName Like "*- GMSA"
-3	Chevrolet - Brazil - Desktop	798	646	Chevrolet,Brazil
+5	Chevrolet - Argentina - Mobile	646	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Argentina,Device (Synthetic):Mobile
+2	Chevrolet - Brazil - Home	798	0	usersession.browserMonitorName Like "*Chevrolet Brazil - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+3	Chevrolet - Brazil - Desktop	798	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Brazil
 4	Chevrolet - Brazil - Home 	798	836	usersession.browserMonitorName Like "*Chevrolet Mobile Brazil - *"
-5	Chevrolet - Brazil - Mobile	798	1482	Chevrolet,Brazil,Mobile
-2	Chevrolet - Chile - Home	950	0	usersession.browserMonitorName Like "*Chevrolet Chile - *" and usersession.browserMonitorName Like "*- GMSA"
-3	Chevrolet - Chile - Desktop	950	646	Chevrolet,Chile
+5	Chevrolet - Brazil - Mobile	798	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Brazil,Device (Synthetic):Mobile
+2	Chevrolet - Chile - Home	950	0	usersession.browserMonitorName Like "*Chevrolet Chile - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+3	Chevrolet - Chile - Desktop	950	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Chile
 4	Chevrolet - Chile - Home 	950	836	usersession.browserMonitorName Like "*Chevrolet Mobile Chile - *"
-5	Chevrolet - Chile - Mobile	950	1482	Chevrolet,Chile,Mobile
-2	Chevrolet - Colombia - Home	1102	0	usersession.browserMonitorName Like "*Chevrolet Colombia - *" and usersession.browserMonitorName Like "*- GMSA"
-3	Chevrolet - Colombia - Desktop	1102	646	Chevrolet,Colombia
+5	Chevrolet - Chile - Mobile	950	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Chile,Device (Synthetic):Mobile
+2	Chevrolet - Colombia - Home	1102	0	usersession.browserMonitorName Like "*Chevrolet Colombia - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+3	Chevrolet - Colombia - Desktop	1102	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Colombia
 4	Chevrolet - Colombia - Home 	1102	836	usersession.browserMonitorName Like "*Chevrolet Mobile Colombia - *"
-5	Chevrolet - Colombia - Mobile	1102	1482	Chevrolet,Colombia,Mobile
-2	Chevrolet - Ecuador - Home	1254	0	usersession.browserMonitorName Like "*Chevrolet Ecuador - *" and usersession.browserMonitorName Like "*- GMSA"
-3	Chevrolet - Ecuador - Desktop	1254	646	Chevrolet,Ecuador
+5	Chevrolet - Colombia - Mobile	1102	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Colombia,Device (Synthetic):Mobile
+2	Chevrolet - Ecuador - Home	1254	0	usersession.browserMonitorName Like "*Chevrolet Ecuador - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+3	Chevrolet - Ecuador - Desktop	1254	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Ecuador
 4	Chevrolet - Ecuador - Home 	1254	836	usersession.browserMonitorName Like "*Chevrolet Mobile Ecuador - *"
-5	Chevrolet - Ecuador - Mobile	1254	1482	Chevrolet,Ecuador,Mobile
-2	Chevrolet - Paraguay - Home	1406	0	usersession.browserMonitorName Like "*Chevrolet Paraguay - *" and usersession.browserMonitorName Like "*- GMSA"
-3	Chevrolet - Paraguay - Desktop	1406	646	Chevrolet,Paraguay
+5	Chevrolet - Ecuador - Mobile	1254	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Ecuador,Device (Synthetic):Mobile
+2	Chevrolet - Paraguay - Home	1406	0	usersession.browserMonitorName Like "*Chevrolet Paraguay - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+3	Chevrolet - Paraguay - Desktop	1406	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Paraguay
 4	Chevrolet - Paraguay - Home 	1406	836	usersession.browserMonitorName Like "*Chevrolet Mobile Paraguay - *"
-5	Chevrolet - Paraguay - Mobile	1406	1482	Chevrolet,Paraguay,Mobile
-2	Chevrolet - Peru - Home	1558	0	usersession.browserMonitorName Like "*Chevrolet Peru - *" and usersession.browserMonitorName Like "*- GMSA"
-3	Chevrolet - Peru - Desktop	1558	646	Chevrolet,Peru
+5	Chevrolet - Paraguay - Mobile	1406	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Paraguay,Device (Synthetic):Mobile
+2	Chevrolet - Peru - Home	1558	0	usersession.browserMonitorName Like "*Chevrolet Peru - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+3	Chevrolet - Peru - Desktop	1558	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Peru
 4	Chevrolet - Peru - Home 	1558	836	usersession.browserMonitorName Like "*Chevrolet Mobile Peru - *"
-5	Chevrolet - Peru - Mobile	1558	1482	Chevrolet,Peru,Mobile
-2	Chevrolet - Uruguay - Home	1710	0	usersession.browserMonitorName Like "*Chevrolet Uruguay - *" and usersession.browserMonitorName Like "*- GMSA"
-3	Chevrolet - Uruguay - Desktop	1710	646	Chevrolet,Uruguay
+5	Chevrolet - Peru - Mobile	1558	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Peru,Device (Synthetic):Mobile
+2	Chevrolet - Uruguay - Home	1710	0	usersession.browserMonitorName Like "*Chevrolet Uruguay - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+3	Chevrolet - Uruguay - Desktop	1710	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Uruguay
 4	Chevrolet - Uruguay - Home 	1710	836	usersession.browserMonitorName Like "*Chevrolet Mobile Uruguay - *"
-5	Chevrolet - Uruguay - Mobile	1710	1482	Chevrolet,Uruguay,Mobile
-2	Chevrolet - Bahrain - Home	1862	0	usersession.browserMonitorName Like "*Chevrolet Bahrain*" and usersession.browserMonitorName Like "*- GMME"
-3	Chevrolet - Bahrain - Desktop	1862	646	Chevrolet,Bahrain
+5	Chevrolet - Uruguay - Mobile	1710	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Uruguay,Device (Synthetic):Mobile
+2	Chevrolet - Bahrain - Home	1862	0	usersession.browserMonitorName Like "*Chevrolet Bahrain*" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Chevrolet - Bahrain - Desktop	1862	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Bahrain
 4	Chevrolet - Bahrain - Home 	1862	836	usersession.browserMonitorName Like "*Chevrolet Mobile Bahrain*"
-5	Chevrolet - Bahrain - Mobile	1862	1482	Chevrolet,Bahrain,Mobile
-2	Chevrolet - Egypt - Home	2014	0	usersession.browserMonitorName Like "*Chevrolet Egypt - *" and usersession.browserMonitorName Like "*- GMAF"
-3	Chevrolet - Egypt - Desktop	2014	646	Chevrolet,Egypt
+5	Chevrolet - Bahrain - Mobile	1862	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Bahrain,Device (Synthetic):Mobile
+2	Chevrolet - Egypt - Home	2014	0	usersession.browserMonitorName Like "*Chevrolet Egypt - *" and usersession.browserMonitorName Like "*- GMAF - GSMC"
+3	Chevrolet - Egypt - Desktop	2014	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Egypt
 4	Chevrolet - Egypt - Home 	2014	836	usersession.browserMonitorName Like "*Chevrolet Mobile Egypt - *"
-5	Chevrolet - Egypt - Mobile	2014	1482	Chevrolet,Egypt,Mobile
-2	Chevrolet - Iraq - Home	2166	0	usersession.browserMonitorName Like "*Chevrolet Iraq*" and usersession.browserMonitorName Like "*- GMME"
-3	Chevrolet - Iraq - Desktop	2166	646	Chevrolet,Iraq
+5	Chevrolet - Egypt - Mobile	2014	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Egypt,Device (Synthetic):Mobile
+2	Chevrolet - Iraq - Home	2166	0	usersession.browserMonitorName Like "*Chevrolet Iraq*" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Chevrolet - Iraq - Desktop	2166	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Iraq
 4	Chevrolet - Iraq - Home 	2166	836	usersession.browserMonitorName Like "*Chevrolet Mobile Iraq - *"
-5	Chevrolet - Iraq - Mobile	2166	1482	Chevrolet,Iraq,Mobile
-2	Chevrolet - Jordan - Home	2318	0	usersession.browserMonitorName Like "*Chevrolet Jordan*" and usersession.browserMonitorName Like "*- GMME"
-3	Chevrolet - Jordan - Desktop	2318	646	Chevrolet,Jordan
+5	Chevrolet - Iraq - Mobile	2166	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Iraq,Device (Synthetic):Mobile
+2	Chevrolet - Jordan - Home	2318	0	usersession.browserMonitorName Like "*Chevrolet Jordan*" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Chevrolet - Jordan - Desktop	2318	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Jordan
 4	Chevrolet - Jordan - Home 	2318	836	usersession.browserMonitorName Like "*Chevrolet Mobile Jordan - *"
-5	Chevrolet - Jordan - Mobile	2318	1482	Chevrolet,Jordan,Mobile
-2	Chevrolet - Kuwait - Home	2470	0	usersession.browserMonitorName Like "*Chevrolet Kuwait*" and usersession.browserMonitorName Like "*- GMME"
-3	Chevrolet - Kuwait - Desktop	2470	646	Chevrolet,Kuwait
+5	Chevrolet - Jordan - Mobile	2318	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Jordan,Device (Synthetic):Mobile
+2	Chevrolet - Kuwait - Home	2470	0	usersession.browserMonitorName Like "*Chevrolet Kuwait*" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Chevrolet - Kuwait - Desktop	2470	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Kuwait
 4	Chevrolet - Kuwait - Home 	2470	836	usersession.browserMonitorName Like "*Chevrolet Mobile Kuwait - *"
-5	Chevrolet - Kuwait - Mobile	2470	1482	Chevrolet,Kuwait,Mobile
-2	Chevrolet - Lebanon - Home	2622	0	usersession.browserMonitorName Like "*Chevrolet Lebanon*" and usersession.browserMonitorName Like "*- GMME"
-3	Chevrolet - Lebanon - Desktop	2622	646	Chevrolet,Lebanon
+5	Chevrolet - Kuwait - Mobile	2470	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Kuwait,Device (Synthetic):Mobile
+2	Chevrolet - Lebanon - Home	2622	0	usersession.browserMonitorName Like "*Chevrolet Lebanon*" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Chevrolet - Lebanon - Desktop	2622	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Lebanon
 4	Chevrolet - Lebanon - Home 	2622	836	usersession.browserMonitorName Like "*Chevrolet Mobile Lebanon - *"
-5	Chevrolet - Lebanon - Mobile	2622	1482	Chevrolet,Lebanon,Mobile
-2	Chevrolet - Oman - Home	2774	0	usersession.browserMonitorName Like "*Chevrolet Oman*" and usersession.browserMonitorName Like "*- GMME"
-3	Chevrolet - Oman - Desktop	2774	646	Chevrolet,Oman
+5	Chevrolet - Lebanon - Mobile	2622	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Lebanon,Device (Synthetic):Mobile
+2	Chevrolet - Oman - Home	2774	0	usersession.browserMonitorName Like "*Chevrolet Oman*" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Chevrolet - Oman - Desktop	2774	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Oman
 4	Chevrolet - Oman - Home 	2774	836	usersession.browserMonitorName Like "*Chevrolet Mobile Oman - *"
-5	Chevrolet - Oman - Mobile	2774	1482	Chevrolet,Oman,Mobile
-2	Chevrolet - Qatar - Home	2926	0	usersession.browserMonitorName Like "*Chevrolet Qatar*" and usersession.browserMonitorName Like "*- GMME"
-3	Chevrolet - Qatar - Desktop	2926	646	Chevrolet,Qatar
+5	Chevrolet - Oman - Mobile	2774	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Oman,Device (Synthetic):Mobile
+2	Chevrolet - Qatar - Home	2926	0	usersession.browserMonitorName Like "*Chevrolet Qatar*" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Chevrolet - Qatar - Desktop	2926	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Qatar
 4	Chevrolet - Qatar - Home 	2926	836	usersession.browserMonitorName Like "*Chevrolet Mobile Qatar - *"
-5	Chevrolet - Qatar - Mobile	2926	1482	Chevrolet,Qatar,Mobile
-2	Chevrolet - Saudi Arabia - Home	3078	0	usersession.browserMonitorName Like "*Chevrolet Saudi Arabia - *" and usersession.browserMonitorName Like "*- GMME"
-3	Chevrolet - Saudi Arabia - Desktop	3078	646	Chevrolet,Saudi Arabia
+5	Chevrolet - Qatar - Mobile	2926	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Qatar,Device (Synthetic):Mobile
+2	Chevrolet - Saudi Arabia - Home	3078	0	usersession.browserMonitorName Like "*Chevrolet Saudi Arabia - *" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Chevrolet - Saudi Arabia - Desktop	3078	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Saudi Arabia
 4	Chevrolet - Saudi Arabia - Home 	3078	836	usersession.browserMonitorName Like "*Chevrolet Mobile Saudi Arabia - *"
-5	Chevrolet - Saudi Arabia - Mobile	3078	1482	Chevrolet,Saudi Arabia,Mobile
-2	Chevrolet - United Arab Emirates - Home	3230	0	usersession.browserMonitorName Like "*Chevrolet United Arab Emirates - *" and usersession.browserMonitorName Like "*- GMME"
-3	Chevrolet - United Arab Emirates - Desktop	3230	646	Chevrolet,United Arab Emirates
+5	Chevrolet - Saudi Arabia - Mobile	3078	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Saudi Arabia,Device (Synthetic):Mobile
+2	Chevrolet - United Arab Emirates - Home	3230	0	usersession.browserMonitorName Like "*Chevrolet United Arab Emirates - *" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Chevrolet - United Arab Emirates - Desktop	3230	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):United Arab Emirates
 4	Chevrolet - United Arab Emirates - Home 	3230	836	usersession.browserMonitorName Like "*Chevrolet Mobile United Arab Emirates - *"
-5	Chevrolet - United Arab Emirates - Mobile	3230	1482	Chevrolet,United Arab Emirates,Mobile
-2	Chevrolet - Japan - Home	3382	0	usersession.browserMonitorName Like "*Chevrolet Japan - *" and usersession.browserMonitorName Like "*- GMAS"
-3	Chevrolet - Japan - Desktop	3382	646	Chevrolet,Japan
+5	Chevrolet - United Arab Emirates - Mobile	3230	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):United Arab Emirates,Device (Synthetic):Mobile
+2	Chevrolet - Japan - Home	3382	0	usersession.browserMonitorName Like "*Chevrolet Japan - *" and usersession.browserMonitorName Like "*- GMAS - GSMC"
+3	Chevrolet - Japan - Desktop	3382	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Japan
 4	Chevrolet - Japan - Home 	3382	836	usersession.browserMonitorName Like "*Chevrolet Mobile Japan - *"
-5	Chevrolet - Japan - Mobile	3382	1482	Chevrolet,Japan,Mobile
-2	Chevrolet - Korea - Home	3534	0	usersession.browserMonitorName Like "*Chevrolet Korea - *" and usersession.browserMonitorName Like "*- GMAS"
-3	Chevrolet - Korea - Desktop	3534	646	Chevrolet,Korea
+5	Chevrolet - Japan - Mobile	3382	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Japan,Device (Synthetic):Mobile
+2	Chevrolet - Korea - Home	3534	0	usersession.browserMonitorName Like "*Chevrolet Korea - *" and usersession.browserMonitorName Like "*- GMAS - GSMC"
+3	Chevrolet - Korea - Desktop	3534	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Korea
 4	Chevrolet - Korea - Home 	3534	836	usersession.browserMonitorName Like "*Chevrolet Mobile Korea - *"
-5	Chevrolet - Korea - Mobile	3534	1482	Chevrolet,Korea,Mobile
-2	Chevrolet - Russia - Home	3686	0	usersession.browserMonitorName Like "*Chevrolet Russia - *" and usersession.browserMonitorName Like "*- GMEU"
-3	Chevrolet - Russia - Desktop	3686	646	Chevrolet,Russia
+5	Chevrolet - Korea - Mobile	3534	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Korea,Device (Synthetic):Mobile
+2	Chevrolet - Russia - Home	3686	0	usersession.browserMonitorName Like "*Chevrolet Russia - *" and usersession.browserMonitorName Like "*- GMEU - GSMC"
+3	Chevrolet - Russia - Desktop	3686	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Russia
 4	Chevrolet - Russia - Home 	3686	836	usersession.browserMonitorName Like "*Chevrolet Mobile Russia - *"
-5	Chevrolet - Russia - Mobile	3686	1482	Chevrolet,Russia,Mobile
+5	Chevrolet - Russia - Mobile	3686	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Russia,Device (Synthetic):Mobile

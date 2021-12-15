@@ -1,38 +1,38 @@
 0	Desktop	0	0
 1	Mobile	0	836
 2	GMC - US - Home	38	0	usersession.browserMonitorName Like "*GMC*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
-3	GMC - US - Desktop	38	646	GMC,CORE
+3	GMC - US - Desktop	38	646	Synthetic - GSMC,Brand (Synthetic):GMC,Type (Synthetic):CORE
 4	GMC - US - Home 	38	836	usersession.browserMonitorName Like "*GMC*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
-5	GMC - US - Mobile	38	1482	GMC,CORE,Mobile
+5	GMC - US - Mobile	38	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Type (Synthetic):CORE,Device (Synthetic):Mobile
 2	GMC - Canada - Home	190	0	usersession.browserMonitorName Like "*GMC Canada EN - *"
-3	GMC - Canada - Desktop	190	646	GMC,Canada,EN
+3	GMC - Canada - Desktop	190	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Canada,Language (Synthetic):EN
 4	GMC - Canada - Home 	190	836	usersession.browserMonitorName Like "*GMC Mobile Canada EN - *"
-5	GMC - Canada - Mobile	190	1482	GMC,Canada,EN,Mobile
+5	GMC - Canada - Mobile	190	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	GMC - Mexico - Home	342	0	usersession.browserMonitorName Like "*GMC Mexico - *"
-3	GMC - Mexico - Desktop	342	646	GMC,Mexico
+3	GMC - Mexico - Desktop	342	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Mexico
 4	GMC - Mexico - Home 	342	836	usersession.browserMonitorName Like "*GMC Mobile Mexico - *"
-5	GMC - Mexico - Mobile	342	1482	GMC,Mexico,Mobile
+5	GMC - Mexico - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Mexico,Device (Synthetic):Mobile
 2	GMC - Bahrain - Home	494	0	usersession.browserMonitorName Like "*GMC Bahrain*"
-3	GMC - Bahrain - Desktop	494	646	GMC,Bahrain
+3	GMC - Bahrain - Desktop	494	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Bahrain
 4	GMC - Bahrain - Home 	494	836	usersession.browserMonitorName Like "*GMC Mobile Bahrain*"
-5	GMC - Bahrain - Mobile	494	1482	GMC,Bahrain,Mobile
+5	GMC - Bahrain - Mobile	494	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Bahrain,Device (Synthetic):Mobile
 2	GMC - Kuwait - Home	646	0	usersession.browserMonitorName Like "*GMC Kuwait*"
-3	GMC - Kuwait - Desktop	646	646	GMC,Kuwait
+3	GMC - Kuwait - Desktop	646	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Kuwait
 4	GMC - Kuwait - Home 	646	836	usersession.browserMonitorName Like "*GMC Mobile Kuwait*"
-5	GMC - Kuwait - Mobile	646	1482	GMC,Kuwait,Mobile
+5	GMC - Kuwait - Mobile	646	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Kuwait,Device (Synthetic):Mobile
 2	GMC - Lebanon - Home	798	0	usersession.browserMonitorName Like "*GMC Lebanon*"
-3	GMC - Lebanon - Desktop	798	646	GMC,Lebanon
+3	GMC - Lebanon - Desktop	798	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Lebanon
 4	GMC - Lebanon - Home 	798	836	usersession.browserMonitorName Like "*GMC Mobile Lebanon*"
-5	GMC - Lebanon - Mobile	798	1482	GMC,Lebanon,Mobile
+5	GMC - Lebanon - Mobile	798	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Lebanon,Device (Synthetic):Mobile
 2	GMC - Oman - Home	950	0	usersession.browserMonitorName Like "*GMC Oman*"
-3	GMC - Oman - Desktop	950	646	GMC,Oman
+3	GMC - Oman - Desktop	950	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Oman
 4	GMC - Oman - Home 	950	836	usersession.browserMonitorName Like "*GMC Mobile Oman*"
-5	GMC - Oman - Mobile	950	1482	GMC,Oman,Mobile
+5	GMC - Oman - Mobile	950	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Oman,Device (Synthetic):Mobile
 2	GMC - Saudi Arabia - Home	1102	0	usersession.browserMonitorName Like "*GMC Saudi Arabia*"
-3	GMC - Saudi Arabia - Desktop	1102	646	GMC,Saudi Arabia
+3	GMC - Saudi Arabia - Desktop	1102	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Saudi Arabia
 4	GMC - Saudi Arabia - Home 	1102	836	usersession.browserMonitorName Like "*GMC Mobile Saudi Arabia*"
-5	GMC - Saudi Arabia - Mobile	1102	1482	GMC,Saudi Arabia,Mobile
+5	GMC - Saudi Arabia - Mobile	1102	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Saudi Arabia,Device (Synthetic):Mobile
 2	GMC - United Arab Emirates - Home	1254	0	usersession.browserMonitorName Like "*GMC United Arab Emirates*"
-3	GMC - United Arab Emirates - Desktop	1254	646	GMC,United Arab Emirates
+3	GMC - United Arab Emirates - Desktop	1254	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):United Arab Emirates
 4	GMC - United Arab Emirates - Home 	1254	836	usersession.browserMonitorName Like "*GMC Mobile United Arab Emirates*"
-5	GMC - United Arab Emirates - Mobile	1254	1482	GMC,United Arab Emirates,Mobile
+5	GMC - United Arab Emirates - Mobile	1254	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):United Arab Emirates,Device (Synthetic):Mobile

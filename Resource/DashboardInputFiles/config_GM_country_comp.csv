@@ -1,50 +1,50 @@
 0	Desktop	0	0
 1	Mobile	0	836
 2	Buick - US - Home	38	0	usersession.browserMonitorName Like "*Buick*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
-3	Buick - US - Desktop	38	646	Buick,CORE
+3	Buick - US - Desktop	38	646	Synthetic - GSMC,Brand (Synthetic):Buick,Type (Synthetic):CORE
 4	Buick - US - Home 	38	836	usersession.browserMonitorName Like "*Buick*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
-5	Buick - US - Mobile	38	1482	Buick,CORE,Mobile
+5	Buick - US - Mobile	38	1482	Synthetic - GSMC,Brand (Synthetic):Buick,Type (Synthetic):CORE,Device (Synthetic):Mobile
 2	Buick - Canada - Home	190	0	usersession.browserMonitorName Like "*Buick Canada EN - *"
-3	Buick - Canada - Desktop	190	646	Buick,Canada,EN
+3	Buick - Canada - Desktop	190	646	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):Canada,Language (Synthetic):EN
 4	Buick - Canada - Home 	190	836	usersession.browserMonitorName Like "*Buick Mobile Canada EN - *"
-5	Buick - Canada - Mobile	190	1482	Buick,Canada,EN,Mobile
+5	Buick - Canada - Mobile	190	1482	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	Buick - Mexico - Home	342	0	usersession.browserMonitorName Like "*Buick Mexico - *"
-3	Buick - Mexico - Desktop	342	646	Buick,Mexico
+3	Buick - Mexico - Desktop	342	646	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):Mexico
 4	Buick - Mexico - Home 	342	836	usersession.browserMonitorName Like "*Buick Mobile Mexico - *"
-5	Buick - Mexico - Mobile	342	1482	Buick,Mexico,Mobile
+5	Buick - Mexico - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):Mexico,Device (Synthetic):Mobile
 2	Cadillac - US - Home	494	0	usersession.browserMonitorName Like "*Cadillac*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
-3	Cadillac - US - Desktop	494	646	Cadillac,CORE
+3	Cadillac - US - Desktop	494	646	Synthetic - GSMC,Brand (Synthetic):Cadillac,Type (Synthetic):CORE
 4	Cadillac - US - Home 	494	836	usersession.browserMonitorName Like "*Cadillac*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
-5	Cadillac - US - Mobile	494	1482	Cadillac,CORE,Mobile
+5	Cadillac - US - Mobile	494	1482	Synthetic - GSMC,Brand (Synthetic):Cadillac,Type (Synthetic):CORE,Device (Synthetic):Mobile
 2	Cadillac - Canada - Home	646	0	usersession.browserMonitorName Like "*Cadillac Canada EN - *"
-3	Cadillac - Canada - Desktop	646	646	Cadillac,Canada,EN
+3	Cadillac - Canada - Desktop	646	646	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Canada,Language (Synthetic):EN
 4	Cadillac - Canada - Home 	646	836	usersession.browserMonitorName Like "*Cadillac Mobile Canada EN - *"
-5	Cadillac - Canada - Mobile	646	1482	Cadillac,Canada,EN,Mobile
+5	Cadillac - Canada - Mobile	646	1482	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	Cadillac - Mexico - Home	798	0	usersession.browserMonitorName Like "*Cadillac Mexico - *"
-3	Cadillac - Mexico - Desktop	798	646	Cadillac,Mexico
+3	Cadillac - Mexico - Desktop	798	646	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Mexico
 4	Cadillac - Mexico - Home 	798	836	usersession.browserMonitorName Like "*Cadillac Mobile Mexico - *"
-5	Cadillac - Mexico - Mobile	798	1482	Cadillac,Mexico,Mobile
+5	Cadillac - Mexico - Mobile	798	1482	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Mexico,Device (Synthetic):Mobile
 2	Chevrolet - US - Home	950	0	usersession.browserMonitorName Like "*Chevrolet*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
-3	Chevrolet - US - Desktop	950	646	Chevrolet,CORE
+3	Chevrolet - US - Desktop	950	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Type (Synthetic):CORE
 4	Chevrolet - US - Home 	950	836	usersession.browserMonitorName Like "*Chevrolet*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
-5	Chevrolet - US - Mobile	950	1482	Chevrolet,CORE,Mobile
+5	Chevrolet - US - Mobile	950	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Type (Synthetic):CORE,Device (Synthetic):Mobile
 2	Chevrolet - Canada - Home	1102	0	usersession.browserMonitorName Like "*Chevrolet Canada EN - *"
-3	Chevrolet - Canada - Desktop	1102	646	Chevrolet,Canada,EN
+3	Chevrolet - Canada - Desktop	1102	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Canada,Language (Synthetic):EN
 4	Chevrolet - Canada - Home 	1102	836	usersession.browserMonitorName Like "*Chevrolet Mobile Canada EN - *"
-5	Chevrolet - Canada - Mobile	1102	1482	Chevrolet,Canada,EN,Mobile
+5	Chevrolet - Canada - Mobile	1102	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	Chevrolet - Mexico - Home	1254	0	usersession.browserMonitorName Like "*Chevrolet Mexico - *"
-3	Chevrolet - Mexico - Desktop	1254	646	Chevrolet,Mexico
+3	Chevrolet - Mexico - Desktop	1254	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Mexico
 4	Chevrolet - Mexico - Home 	1254	836	usersession.browserMonitorName Like "*Chevrolet Mobile Mexico - *"
-5	Chevrolet - Mexico - Mobile	1254	1482	Chevrolet,Mexico,Mobile
+5	Chevrolet - Mexico - Mobile	1254	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Mexico,Device (Synthetic):Mobile
 2	GMC - US - Home	1406	0	usersession.browserMonitorName Like "*GMC*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
-3	GMC - US - Desktop	1406	646	GMC,CORE
+3	GMC - US - Desktop	1406	646	Synthetic - GSMC,Brand (Synthetic):GMC,Type (Synthetic):CORE
 4	GMC - US - Home 	1406	836	usersession.browserMonitorName Like "*GMC*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
-5	GMC - US - Mobile	1406	1482	GMC,CORE,Mobile
+5	GMC - US - Mobile	1406	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Type (Synthetic):CORE,Device (Synthetic):Mobile
 2	GMC - Canada - Home	1558	0	usersession.browserMonitorName Like "*GMC Canada EN - *"
-3	GMC - Canada - Desktop	1558	646	GMC,Canada,EN
+3	GMC - Canada - Desktop	1558	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Canada,Language (Synthetic):EN
 4	GMC - Canada - Home 	1558	836	usersession.browserMonitorName Like "*GMC Mobile Canada EN - *"
-5	GMC - Canada - Mobile	1558	1482	GMC,Canada,EN,Mobile
+5	GMC - Canada - Mobile	1558	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	GMC - Mexico - Home	1710	0	usersession.browserMonitorName Like "*GMC Mexico - *"
-3	GMC - Mexico - Desktop	1710	646	GMC,Mexico
+3	GMC - Mexico - Desktop	1710	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Mexico
 4	GMC - Mexico - Home 	1710	836	usersession.browserMonitorName Like "*GMC Mobile Mexico - *"
-5	GMC - Mexico - Mobile	1710	1482	GMC,Mexico,Mobile
+5	GMC - Mexico - Mobile	1710	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Mexico,Device (Synthetic):Mobile

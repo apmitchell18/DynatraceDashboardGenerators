@@ -1,34 +1,34 @@
 0	Desktop	0	0
 1	Mobile	0	836
-2	Chevrolet - Brazil - Home	38	0	usersession.browserMonitorName Like "*Chevrolet Brazil - *" and usersession.browserMonitorName Like "*- GMSA"
-3	Chevrolet - Brazil - Desktop	38	646	Chevrolet,Brazil
+2	Chevrolet - Brazil - Home	38	0	usersession.browserMonitorName Like "*Chevrolet Brazil - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+3	Chevrolet - Brazil - Desktop	38	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Brazil
 4	Chevrolet - Brazil - Home 	38	836	usersession.browserMonitorName Like "*Chevrolet Mobile Brazil - *"
-5	Chevrolet - Brazil - Mobile	38	1482	Chevrolet,Brazil,Mobile
+5	Chevrolet - Brazil - Mobile	38	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Brazil,Device (Synthetic):Mobile
 2	Fiat - Brazil - Home	190	0	usersession.browserMonitorName Like "*Fiat Brazil - *"
-3	Fiat - Brazil - Desktop	190	646	Fiat,Brazil
+3	Fiat - Brazil - Desktop	190	646	Synthetic - GSMC,Brand (Synthetic):Fiat,Country (Synthetic):Brazil
 4	Fiat - Brazil - Home 	190	836	usersession.browserMonitorName Like "*Fiat Mobile Brazil - *"
-5	Fiat - Brazil - Mobile	190	1482	Fiat,Brazil,Mobile
+5	Fiat - Brazil - Mobile	190	1482	Synthetic - GSMC,Brand (Synthetic):Fiat,Country (Synthetic):Brazil,Device (Synthetic):Mobile
 2	Ford - Brazil - Home	342	0	usersession.browserMonitorName Like "*Ford Brazil - *"
-3	Ford - Brazil - Desktop	342	646	Ford,Brazil
+3	Ford - Brazil - Desktop	342	646	Synthetic - GSMC,Brand (Synthetic):Ford,Country (Synthetic):Brazil
 4	Ford - Brazil - Home 	342	836	usersession.browserMonitorName Like "*Ford Mobile Brazil - *"
-5	Ford - Brazil - Mobile	342	1482	Ford,Brazil,Mobile
+5	Ford - Brazil - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):Ford,Country (Synthetic):Brazil,Device (Synthetic):Mobile
 2	Honda - Brazil - Home	494	0	usersession.browserMonitorName Like "*Honda Brazil - *"
-3	Honda - Brazil - Desktop	494	646	Honda,Brazil
+3	Honda - Brazil - Desktop	494	646	Synthetic - GSMC,Brand (Synthetic):Honda,Country (Synthetic):Brazil
 4	Honda - Brazil - Home 	494	836	usersession.browserMonitorName Like "*Honda Mobile Brazil - *"
-5	Honda - Brazil - Mobile	494	1482	Honda,Brazil,Mobile
+5	Honda - Brazil - Mobile	494	1482	Synthetic - GSMC,Brand (Synthetic):Honda,Country (Synthetic):Brazil,Device (Synthetic):Mobile
 2	Hyundai - Brazil - Home	646	0	usersession.browserMonitorName Like "*Hyundai Brazil - *"
-3	Hyundai - Brazil - Desktop	646	646	Hyundai,Brazil
+3	Hyundai - Brazil - Desktop	646	646	Synthetic - GSMC,Brand (Synthetic):Hyundai,Country (Synthetic):Brazil
 4	Hyundai - Brazil - Home 	646	836	usersession.browserMonitorName Like "*Hyundai Mobile Brazil - *"
-5	Hyundai - Brazil - Mobile	646	1482	Hyundai,Brazil,Mobile
+5	Hyundai - Brazil - Mobile	646	1482	Synthetic - GSMC,Brand (Synthetic):Hyundai,Country (Synthetic):Brazil,Device (Synthetic):Mobile
 2	Jeep - Brazil - Home	798	0	usersession.browserMonitorName Like "*Jeep Brazil - *"
-3	Jeep - Brazil - Desktop	798	646	Jeep,Brazil
+3	Jeep - Brazil - Desktop	798	646	Synthetic - GSMC,Brand (Synthetic):Jeep,Country (Synthetic):Brazil
 4	Jeep - Brazil - Home 	798	836	usersession.browserMonitorName Like "*Jeep Mobile Brazil - *"
-5	Jeep - Brazil - Mobile	798	1482	Jeep,Brazil,Mobile
+5	Jeep - Brazil - Mobile	798	1482	Synthetic - GSMC,Brand (Synthetic):Jeep,Country (Synthetic):Brazil,Device (Synthetic):Mobile
 2	Toyota - Brazil - Home	950	0	usersession.browserMonitorName Like "*Toyota Brazil - *"
-3	Toyota - Brazil - Desktop	950	646	Toyota,Brazil
+3	Toyota - Brazil - Desktop	950	646	Synthetic - GSMC,Brand (Synthetic):Toyota,Country (Synthetic):Brazil
 4	Toyota - Brazil - Home 	950	836	usersession.browserMonitorName Like "*Toyota Mobile Brazil - *"
-5	Toyota - Brazil - Mobile	950	1482	Toyota,Brazil,Mobile
+5	Toyota - Brazil - Mobile	950	1482	Synthetic - GSMC,Brand (Synthetic):Toyota,Country (Synthetic):Brazil,Device (Synthetic):Mobile
 2	VW - Brazil - Home	1102	0	usersession.browserMonitorName Like "*VW Brazil - *"
-3	VW - Brazil - Desktop	1102	646	VW,Brazil
+3	VW - Brazil - Desktop	1102	646	Synthetic - GSMC,Brand (Synthetic):VW,Country (Synthetic):Brazil
 4	VW - Brazil - Home 	1102	836	usersession.browserMonitorName Like "*VW Mobile Brazil - *"
-5	VW - Brazil - Mobile	1102	1482	VW,Brazil,Mobile
+5	VW - Brazil - Mobile	1102	1482	Synthetic - GSMC,Brand (Synthetic):VW,Country (Synthetic):Brazil,Device (Synthetic):Mobile

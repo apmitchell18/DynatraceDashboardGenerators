@@ -1,6 +1,6 @@
 0	Desktop	0	0
 1	Mobile	0	836
-2	Chevrolet - Argentina - Home	38	0	usersession.browserMonitorName Like "*Chevrolet Argentina - *" and usersession.browserMonitorName Like "*- GMSA - GSMC"
+2	Chevrolet - Argentina - Home	38	0	usersession.browserMonitorName Like "*Chevrolet Argentina - *" and usersession.browserMonitorName Like "*- GMSA"
 3	Chevrolet - Argentina - Desktop	38	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Argentina
 4	Chevrolet - Argentina - Home 	38	836	usersession.browserMonitorName Like "*Chevrolet Mobile Argentina - *"
 5	Chevrolet - Argentina - Mobile	38	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Argentina,Device (Synthetic):Mobile

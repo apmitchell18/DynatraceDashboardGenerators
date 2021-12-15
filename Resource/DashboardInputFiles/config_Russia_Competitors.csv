@@ -1,30 +1,30 @@
 0	Desktop	0	0
 1	Mobile	0	836
-2	Cadillac - Russia - Home	38	0	usersession.browserMonitorName Like "*Cadillac Russia - *" and usersession.browserMonitorName Like "*- GMEU"
-3	Cadillac - Russia - Desktop	38	646	Cadillac,Russia
+2	Cadillac - Russia - Home	38	0	usersession.browserMonitorName Like "*Cadillac Russia - *" and usersession.browserMonitorName Like "*- GMEU - GSMC"
+3	Cadillac - Russia - Desktop	38	646	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Russia
 4	Cadillac - Russia - Home 	38	836	usersession.browserMonitorName Like "*Cadillac Mobile Russia - *"
-5	Cadillac - Russia - Mobile	38	1482	Cadillac,Russia,Mobile
-2	Chevrolet - Russia - Home	190	0	usersession.browserMonitorName Like "*Chevrolet Russia - *" and usersession.browserMonitorName Like "*- GMEU"
-3	Chevrolet - Russia - Desktop	190	646	Chevrolet,Russia
+5	Cadillac - Russia - Mobile	38	1482	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Russia,Device (Synthetic):Mobile
+2	Chevrolet - Russia - Home	190	0	usersession.browserMonitorName Like "*Chevrolet Russia - *" and usersession.browserMonitorName Like "*- GMEU - GSMC"
+3	Chevrolet - Russia - Desktop	190	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Russia
 4	Chevrolet - Russia - Home 	190	836	usersession.browserMonitorName Like "*Chevrolet Mobile Russia - *"
-5	Chevrolet - Russia - Mobile	190	1482	Chevrolet,Russia,Mobile
-2	Infiniti - Russia - Home	342	0	usersession.browserMonitorName Like "*Infiniti Russia - *" and usersession.browserMonitorName Like "*- GMEU COMP"
-3	Infiniti - Russia - Desktop	342	646	Infiniti,Russia
+5	Chevrolet - Russia - Mobile	190	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Russia,Device (Synthetic):Mobile
+2	Infiniti - Russia - Home	342	0	usersession.browserMonitorName Like "*Infiniti Russia - *" and usersession.browserMonitorName Like "*- GMEU COMP - GSMC"
+3	Infiniti - Russia - Desktop	342	646	Synthetic - GSMC,Brand (Synthetic):Infiniti,Country (Synthetic):Russia
 4	Infiniti - Russia - Home 	342	836	usersession.browserMonitorName Like "*Infiniti Mobile Russia - *"
-5	Infiniti - Russia - Mobile	342	1482	Infiniti,Russia,Mobile
-2	Jeep - Russia - Home	494	0	usersession.browserMonitorName Like "*Jeep Russia - *" and usersession.browserMonitorName Like "*- GMEU COMP"
-3	Jeep - Russia - Desktop	494	646	Jeep,Russia
+5	Infiniti - Russia - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):Infiniti,Country (Synthetic):Russia,Device (Synthetic):Mobile
+2	Jeep - Russia - Home	494	0	usersession.browserMonitorName Like "*Jeep Russia - *" and usersession.browserMonitorName Like "*- GMEU COMP - GSMC"
+3	Jeep - Russia - Desktop	494	646	Synthetic - GSMC,Brand (Synthetic):Jeep,Country (Synthetic):Russia
 4	Jeep - Russia - Home 	494	836	usersession.browserMonitorName Like "*Jeep Mobile Russia - *"
-5	Jeep - Russia - Mobile	494	1482	Jeep,Russia,Mobile
-2	Land Rover - Russia - Home	646	0	usersession.browserMonitorName Like "*Land Rover Russia - *" and usersession.browserMonitorName Like "*- GMEU COMP"
-3	Land Rover - Russia - Desktop	646	646	Land Rover,Russia
+5	Jeep - Russia - Mobile	494	1482	Synthetic - GSMC,Brand (Synthetic):Jeep,Country (Synthetic):Russia,Device (Synthetic):Mobile
+2	Land Rover - Russia - Home	646	0	usersession.browserMonitorName Like "*Land Rover Russia - *" and usersession.browserMonitorName Like "*- GMEU COMP - GSMC"
+3	Land Rover - Russia - Desktop	646	646	Synthetic - GSMC,Brand (Synthetic):Land Rover,Country (Synthetic):Russia
 4	Land Rover - Russia - Home 	646	836	usersession.browserMonitorName Like "*Land Rover Mobile Russia - *"
-5	Land Rover - Russia - Mobile	646	1482	Land Rover,Russia,Mobile
-2	Lexus - Russia - Home	798	0	usersession.browserMonitorName Like "*Lexus Russia - *" and usersession.browserMonitorName Like "*- GMEU COMP"
-3	Lexus - Russia - Desktop	798	646	Lexus,Russia
+5	Land Rover - Russia - Mobile	646	1482	Synthetic - GSMC,Brand (Synthetic):Land Rover,Country (Synthetic):Russia,Device (Synthetic):Mobile
+2	Lexus - Russia - Home	798	0	usersession.browserMonitorName Like "*Lexus Russia - *" and usersession.browserMonitorName Like "*- GMEU COMP - GSMC"
+3	Lexus - Russia - Desktop	798	646	Synthetic - GSMC,Brand (Synthetic):Lexus,Country (Synthetic):Russia
 4	Lexus - Russia - Home 	798	836	usersession.browserMonitorName Like "*Lexus Mobile Russia - *"
-5	Lexus - Russia - Mobile	798	1482	Lexus,Russia,Mobile
-2	Mercedes - Russia - Home	950	0	usersession.browserMonitorName Like "*Mercedes Russia - *" and usersession.browserMonitorName Like "*- GMEU COMP"
-3	Mercedes - Russia - Desktop	950	646	Mercedes,Russia
+5	Lexus - Russia - Mobile	798	1482	Synthetic - GSMC,Brand (Synthetic):Lexus,Country (Synthetic):Russia,Device (Synthetic):Mobile
+2	Mercedes - Russia - Home	950	0	usersession.browserMonitorName Like "*Mercedes Russia - *" and usersession.browserMonitorName Like "*- GMEU COMP - GSMC"
+3	Mercedes - Russia - Desktop	950	646	Synthetic - GSMC,Brand (Synthetic):Mercedes,Country (Synthetic):Russia
 4	Mercedes - Russia - Home 	950	836	usersession.browserMonitorName Like "*Mercedes Mobile Russia - *"
-5	Mercedes - Russia - Mobile	950	1482	Mercedes,Russia,Mobile
+5	Mercedes - Russia - Mobile	950	1482	Synthetic - GSMC,Brand (Synthetic):Mercedes,Country (Synthetic):Russia,Device (Synthetic):Mobile

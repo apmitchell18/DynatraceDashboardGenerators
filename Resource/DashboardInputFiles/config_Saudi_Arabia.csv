@@ -1,14 +1,14 @@
 0	Desktop	0	0
 1	Mobile	0	836
-2	Cadillac - Saudi Arabia - Home	38	0	usersession.browserMonitorName Like "*Cadillac Saudi Arabia - *" and usersession.browserMonitorName Like "*- GMME"
-3	Cadillac - Saudi Arabia - Desktop	38	646	Cadillac,Saudi Arabia
+2	Cadillac - Saudi Arabia - Home	38	0	usersession.browserMonitorName Like "*Cadillac Saudi Arabia - *" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Cadillac - Saudi Arabia - Desktop	38	646	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Saudi Arabia
 4	Cadillac - Saudi Arabia - Home 	38	836	usersession.browserMonitorName Like "*Cadillac Mobile Saudi Arabia - *"
-5	Cadillac - Saudi Arabia - Mobile	38	1482	Cadillac,Saudi Arabia,Mobile
-2	Chevrolet - Saudi Arabia - Home	190	0	usersession.browserMonitorName Like "*Chevrolet Saudi Arabia - *" and usersession.browserMonitorName Like "*- GMME"
-3	Chevrolet - Saudi Arabia - Desktop	190	646	Chevrolet,Saudi Arabia
+5	Cadillac - Saudi Arabia - Mobile	38	1482	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Saudi Arabia,Device (Synthetic):Mobile
+2	Chevrolet - Saudi Arabia - Home	190	0	usersession.browserMonitorName Like "*Chevrolet Saudi Arabia - *" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	Chevrolet - Saudi Arabia - Desktop	190	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Saudi Arabia
 4	Chevrolet - Saudi Arabia - Home 	190	836	usersession.browserMonitorName Like "*Chevrolet Mobile Saudi Arabia - *"
-5	Chevrolet - Saudi Arabia - Mobile	190	1482	Chevrolet,Saudi Arabia,Mobile
-2	GMC - Saudi Arabia - Home	342	0	usersession.browserMonitorName Like "*GMC Saudi Arabia - *" and usersession.browserMonitorName Like "*- GMME"
-3	GMC - Saudi Arabia - Desktop	342	646	GMC,Saudi Arabia
+5	Chevrolet - Saudi Arabia - Mobile	190	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Saudi Arabia,Device (Synthetic):Mobile
+2	GMC - Saudi Arabia - Home	342	0	usersession.browserMonitorName Like "*GMC Saudi Arabia - *" and usersession.browserMonitorName Like "*- GMME - GSMC"
+3	GMC - Saudi Arabia - Desktop	342	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Saudi Arabia
 4	GMC - Saudi Arabia - Home 	342	836	usersession.browserMonitorName Like "*GMC Mobile Saudi Arabia - *"
-5	GMC - Saudi Arabia - Mobile	342	1482	GMC,Saudi Arabia,Mobile
+5	GMC - Saudi Arabia - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Saudi Arabia,Device (Synthetic):Mobile

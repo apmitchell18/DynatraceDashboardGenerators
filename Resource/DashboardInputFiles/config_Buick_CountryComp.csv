@@ -1,14 +1,14 @@
 0	Desktop	0	0
 1	Mobile	0	836
 2	Buick - US - Home	38	0	usersession.browserMonitorName Like "*Buick*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName not like "*Mobile*"
-3	Buick - US - Desktop	38	646	Buick,CORE
+3	Buick - US - Desktop	38	646	Synthetic - GSMC,Brand (Synthetic):Buick,Type (Synthetic):CORE
 4	Buick - US - Home 	38	836	usersession.browserMonitorName Like "*Buick*" and usersession.browserMonitorName like "*CORE*" and usersession.browserMonitorName like "*Mobile*"
-5	Buick - US - Mobile	38	1482	Buick,CORE,Mobile
+5	Buick - US - Mobile	38	1482	Synthetic - GSMC,Brand (Synthetic):Buick,Type (Synthetic):CORE,Device (Synthetic):Mobile
 2	Buick - Canada - Home	190	0	usersession.browserMonitorName Like "*Buick Canada EN - *"
-3	Buick - Canada - Desktop	190	646	Buick,Canada,EN
+3	Buick - Canada - Desktop	190	646	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):Canada,Language (Synthetic):EN
 4	Buick - Canada - Home 	190	836	usersession.browserMonitorName Like "*Buick Mobile Canada EN - *"
-5	Buick - Canada - Mobile	190	1482	Buick,Canada,EN,Mobile
+5	Buick - Canada - Mobile	190	1482	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	Buick - Mexico - Home	342	0	usersession.browserMonitorName Like "*Buick Mexico - *"
-3	Buick - Mexico - Desktop	342	646	Buick,Mexico
+3	Buick - Mexico - Desktop	342	646	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):Mexico
 4	Buick - Mexico - Home 	342	836	usersession.browserMonitorName Like "*Buick Mobile Mexico - *"
-5	Buick - Mexico - Mobile	342	1482	Buick,Mexico,Mobile
+5	Buick - Mexico - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):Mexico,Device (Synthetic):Mobile

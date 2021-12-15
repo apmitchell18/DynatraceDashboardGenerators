@@ -1,58 +1,58 @@
 0	Desktop	0	0
 1	Mobile	0	836
 2	Buick - Canada - Home	38	0	usersession.browserMonitorName Like "*Buick Canada EN - *"
-3	Buick - Canada - Desktop	38	646	Buick,Canada,EN
+3	Buick - Canada - Desktop	38	646	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):Canada,Language (Synthetic):EN
 4	Buick - Canada - Home 	38	836	usersession.browserMonitorName Like "*Buick Mobile Canada EN - *"
-5	Buick - Canada - Mobile	38	1482	Buick,Canada,EN,Mobile
+5	Buick - Canada - Mobile	38	1482	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	Cadillac - Canada - Home	190	0	usersession.browserMonitorName Like "*Cadillac Canada EN - *"
-3	Cadillac - Canada - Desktop	190	646	Cadillac,Canada,EN
+3	Cadillac - Canada - Desktop	190	646	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Canada,Language (Synthetic):EN
 4	Cadillac - Canada - Home 	190	836	usersession.browserMonitorName Like "*Cadillac Mobile Canada EN - *"
-5	Cadillac - Canada - Mobile	190	1482	Cadillac,Canada,EN,Mobile
+5	Cadillac - Canada - Mobile	190	1482	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	Chevrolet - Canada - Home	342	0	usersession.browserMonitorName Like "*Chevrolet Canada EN - *"
-3	Chevrolet - Canada - Desktop	342	646	Chevrolet,Canada,EN
+3	Chevrolet - Canada - Desktop	342	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Canada,Language (Synthetic):EN
 4	Chevrolet - Canada - Home 	342	836	usersession.browserMonitorName Like "*Chevrolet Mobile Canada EN - *"
-5	Chevrolet - Canada - Mobile	342	1482	Chevrolet,Canada,EN,Mobile
+5	Chevrolet - Canada - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	GMC - Canada - Home	494	0	usersession.browserMonitorName Like "*GMC Canada EN - *"
-3	GMC - Canada - Desktop	494	646	GMC,Canada,EN
+3	GMC - Canada - Desktop	494	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Canada,Language (Synthetic):EN
 4	GMC - Canada - Home 	494	836	usersession.browserMonitorName Like "*GMC Mobile Canada EN - *"
-5	GMC - Canada - Mobile	494	1482	GMC,Canada,EN,Mobile
+5	GMC - Canada - Mobile	494	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Canada,Language (Synthetic):EN,Device (Synthetic):Mobile
 2	Acura - Canada - Home	646	0	usersession.browserMonitorName Like "*Acura Canada - *"
-3	Acura - Canada - Desktop	646	646	Acura,Canada
+3	Acura - Canada - Desktop	646	646	Synthetic - GSMC,Brand (Synthetic):Acura,Country (Synthetic):Canada
 4	Acura - Canada - Home 	646	836	usersession.browserMonitorName Like "*Acura Mobile Canada - *"
-5	Acura - Canada - Mobile	646	1482	Acura,Canada,Mobile
+5	Acura - Canada - Mobile	646	1482	Synthetic - GSMC,Brand (Synthetic):Acura,Country (Synthetic):Canada,Device (Synthetic):Mobile
 2	BMW - Canada - Home	798	0	usersession.browserMonitorName Like "*BMW Canada - *"
-3	BMW - Canada - Desktop	798	646	BMW,Canada
+3	BMW - Canada - Desktop	798	646	Synthetic - GSMC,Brand (Synthetic):BMW,Country (Synthetic):Canada
 4	BMW - Canada - Home 	798	836	usersession.browserMonitorName Like "*BMW Mobile Canada - *"
-5	BMW - Canada - Mobile	798	1482	BMW,Canada,Mobile
+5	BMW - Canada - Mobile	798	1482	Synthetic - GSMC,Brand (Synthetic):BMW,Country (Synthetic):Canada,Device (Synthetic):Mobile
 2	Chrysler - Canada - Home	950	0	usersession.browserMonitorName Like "*Chrysler Canada - *"
-3	Chrysler - Canada - Desktop	950	646	Chrysler,Canada
+3	Chrysler - Canada - Desktop	950	646	Synthetic - GSMC,Brand (Synthetic):Chrysler,Country (Synthetic):Canada
 4	Chrysler - Canada - Home 	950	836	usersession.browserMonitorName Like "*Chrysler Mobile Canada - *"
-5	Chrysler - Canada - Mobile	950	1482	Chrysler,Canada,Mobile
+5	Chrysler - Canada - Mobile	950	1482	Synthetic - GSMC,Brand (Synthetic):Chrysler,Country (Synthetic):Canada,Device (Synthetic):Mobile
 2	Ford - Canada - Home	1102	0	usersession.browserMonitorName Like "*Ford Canada - *"
-3	Ford - Canada - Desktop	1102	646	Ford,Canada
+3	Ford - Canada - Desktop	1102	646	Synthetic - GSMC,Brand (Synthetic):Ford,Country (Synthetic):Canada
 4	Ford - Canada - Home 	1102	836	usersession.browserMonitorName Like "*Ford Mobile Canada - *"
-5	Ford - Canada - Mobile	1102	1482	Ford,Canada,Mobile
+5	Ford - Canada - Mobile	1102	1482	Synthetic - GSMC,Brand (Synthetic):Ford,Country (Synthetic):Canada,Device (Synthetic):Mobile
 2	Honda - Canada - Home	1254	0	usersession.browserMonitorName Like "*Honda Canada - *"
-3	Honda - Canada - Desktop	1254	646	Honda,Canada
+3	Honda - Canada - Desktop	1254	646	Synthetic - GSMC,Brand (Synthetic):Honda,Country (Synthetic):Canada
 4	Honda - Canada - Home 	1254	836	usersession.browserMonitorName Like "*Honda Mobile Canada - *"
-5	Honda - Canada - Mobile	1254	1482	Honda,Canada,Mobile
+5	Honda - Canada - Mobile	1254	1482	Synthetic - GSMC,Brand (Synthetic):Honda,Country (Synthetic):Canada,Device (Synthetic):Mobile
 2	Hyundai - Canada - Home	1406	0	usersession.browserMonitorName Like "*Hyundai Canada - *"
-3	Hyundai - Canada - Desktop	1406	646	Hyundai,Canada
+3	Hyundai - Canada - Desktop	1406	646	Synthetic - GSMC,Brand (Synthetic):Hyundai,Country (Synthetic):Canada
 4	Hyundai - Canada - Home 	1406	836	usersession.browserMonitorName Like "*Hyundai Mobile Canada - *"
-5	Hyundai - Canada - Mobile	1406	1482	Hyundai,Canada,Mobile
+5	Hyundai - Canada - Mobile	1406	1482	Synthetic - GSMC,Brand (Synthetic):Hyundai,Country (Synthetic):Canada,Device (Synthetic):Mobile
 2	Mercedes - Canada - Home	1558	0	usersession.browserMonitorName Like "*Mercedes Canada - *"
-3	Mercedes - Canada - Desktop	1558	646	Mercedes,Canada
+3	Mercedes - Canada - Desktop	1558	646	Synthetic - GSMC,Brand (Synthetic):Mercedes,Country (Synthetic):Canada
 4	Mercedes - Canada - Home 	1558	836	usersession.browserMonitorName Like "*Mercedes Mobile Canada - *"
-5	Mercedes - Canada - Mobile	1558	1482	Mercedes,Canada,Mobile
+5	Mercedes - Canada - Mobile	1558	1482	Synthetic - GSMC,Brand (Synthetic):Mercedes,Country (Synthetic):Canada,Device (Synthetic):Mobile
 2	RAM - Canada - Home	1710	0	usersession.browserMonitorName Like "*RAM Canada - *"
-3	RAM - Canada - Desktop	1710	646	RAM,Canada
+3	RAM - Canada - Desktop	1710	646	Synthetic - GSMC,Brand (Synthetic):RAM,Country (Synthetic):Canada
 4	RAM - Canada - Home 	1710	836	usersession.browserMonitorName Like "*RAM Mobile Canada - *"
-5	RAM - Canada - Mobile	1710	1482	RAM,Canada,Mobile
+5	RAM - Canada - Mobile	1710	1482	Synthetic - GSMC,Brand (Synthetic):RAM,Country (Synthetic):Canada,Device (Synthetic):Mobile
 2	Toyota - Canada - Home	1862	0	usersession.browserMonitorName Like "*Toyota Canada - *"
-3	Toyota - Canada - Desktop	1862	646	Toyota,Canada
+3	Toyota - Canada - Desktop	1862	646	Synthetic - GSMC,Brand (Synthetic):Toyota,Country (Synthetic):Canada
 4	Toyota - Canada - Home 	1862	836	usersession.browserMonitorName Like "*Toyota Mobile Canada - *"
-5	Toyota - Canada - Mobile	1862	1482	Toyota,Canada,Mobile
+5	Toyota - Canada - Mobile	1862	1482	Synthetic - GSMC,Brand (Synthetic):Toyota,Country (Synthetic):Canada,Device (Synthetic):Mobile
 2	VW - Canada - Home	2014	0	usersession.browserMonitorName Like "*VW Canada - *"
 3	VW - Canada - Desktop	2014	646	VW,Canada
 4	VW - Canada - Home 	2014	836	usersession.browserMonitorName Like "*VW Mobile Canada - *"
-5	VW - Canada - Mobile	2014	1482	VW,Canada,Mobile
+5	VW - Canada - Mobile	2014	1482	VW,Canada,Device (Synthetic):Mobile
