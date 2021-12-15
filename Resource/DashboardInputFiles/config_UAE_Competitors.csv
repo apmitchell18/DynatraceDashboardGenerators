@@ -13,9 +13,9 @@
 4	GMC - United Arab Emirates - Home 	342	836	usersession.browserMonitorName Like "*GMC Mobile United Arab Emirates - *"
 5	GMC - United Arab Emirates - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):United Arab Emirates,Device (Synthetic):Mobile
 2	Ford - United Arab Emirates - Home	494	0	usersession.browserMonitorName Like "*Ford United Arab Emirates - *" and usersession.browserMonitorName Like "*- GMME COMP - GSMC"
-3	Ford - United Arab Emirates - Desktop	494	646	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):United Arab Emirates
+3	Ford - United Arab Emirates - Desktop	494	646	Synthetic - GSMC,Brand (Synthetic):Ford,Country (Synthetic):United Arab Emirates
 4	Ford - United Arab Emirates - Home 	494	836	usersession.browserMonitorName Like "*Ford Mobile United Arab Emirates - *"
-5	Ford - United Arab Emirates - Mobile	494	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):United Arab Emirates,Device (Synthetic):Mobile
+5	Ford - United Arab Emirates - Mobile	494	1482	Synthetic - GSMC,Brand (Synthetic):Ford,Country (Synthetic):United Arab Emirates,Device (Synthetic):Mobile
 2	Hyundai - United Arab Emirates - Home	646	0	usersession.browserMonitorName Like "*Hyundai United Arab Emirates - *" and usersession.browserMonitorName Like "*- GMME COMP - GSMC"
 3	Hyundai - United Arab Emirates - Desktop	646	646	Synthetic - GSMC,Brand (Synthetic):Hyundai,Country (Synthetic):United Arab Emirates
 4	Hyundai - United Arab Emirates - Home 	646	836	usersession.browserMonitorName Like "*Hyundai Mobile United Arab Emirates - *"
@@ -28,3 +28,7 @@
 3	Toyota - United Arab Emirates - Desktop	950	646	Synthetic - GSMC,Brand (Synthetic):Toyota,Country (Synthetic):United Arab Emirates
 4	Toyota - United Arab Emirates - Home 	950	836	usersession.browserMonitorName Like "*Toyota Mobile United Arab Emirates - *"
 5	Toyota - United Arab Emirates - Mobile	950	1482	Synthetic - GSMC,Brand (Synthetic):Toyota,Country (Synthetic):United Arab Emirates,Device (Synthetic):Mobile
+2	VW - United Arab Emirates - Home	1102	0	usersession.browserMonitorName Like "*VW United Arab Emirates - *" and usersession.browserMonitorName Like "*- GMME COMP - GSMC"
+3	VW - United Arab Emirates - Desktop	1102	646	Synthetic - GSMC,Brand (Synthetic):VW,Country (Synthetic):United Arab Emirates
+4	VW - United Arab Emirates - Home 	1102	836	usersession.browserMonitorName Like "*VW Mobile United Arab Emirates - *"
+5	VW - United Arab Emirates - Mobile	1102	1482	Synthetic - GSMC,Brand (Synthetic):VW,Country (Synthetic):United Arab Emirates,Device (Synthetic):Mobile
