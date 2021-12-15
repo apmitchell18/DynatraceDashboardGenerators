@@ -4,9 +4,81 @@
   "sharing_settings_file": "Dashboard_SharingSettings.json",
   "dashboards_to_generate": [
     {
-      "dashboard_data_file": "config_Argentina_Competitors.csv",
+      "dashboard_data_file": "config_US_Competitors.csv",
       "is_new": true,
+      "new_dashboard_name": "Resource Comparison - GM and Competitors - US",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_Argentina_Competitors.csv",
+      "is_new": false,
       "new_dashboard_name": "Resource Comparison - GM and Competitors - Argentina",
+      "existing_id": "44238b48-de3f-4e10-b80b-cd8b57e38591"
+    },
+    {
+      "dashboard_data_file": "config_Brazil_Competitors.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Comparison - GM and Competitors - Brazil",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_Canada_Competitors.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Comparison - GM and Competitors - Canada",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_Japan_Competitors.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Comparison - GM and Competitors - Japan",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_Russia_Competitors.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Comparison - GM and Competitors - Russia",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_Saudi_Arabia_Competitors.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Comparison - GM and Competitors - Saudi Arabia",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_UAE_Competitors.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Comparison - GM and Competitors - United Arab Emirates",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_Buick_CountryComp.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Performance - Buick - All Markets",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_Cadillac_CountryComp.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Performance - Cadillac - All Markets",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_Chevrolet_CountryComp.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Performance - Chevrolet - All Markets",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_GMC_CountryComp.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Performance - GMC - All Markets",
+      "existing_id": "N/A"
+    },
+    {
+      "dashboard_data_file": "config_GM_country_comp.csv",
+      "is_new": true,
+      "new_dashboard_name": "Resource Performance - GM Markets",
       "existing_id": "N/A"
     }
   ]

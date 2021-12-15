@@ -1,0 +1,62 @@
+0	Desktop	0	0
+1	Mobile	0	836
+2	Buick - US - Home	38	0	"usersession.browserMonitorName Like ""*Buick*"" and usersession.browserMonitorName like ""*CORE*"" and usersession.browserMonitorName not like ""*Mobile*"""
+3	Buick - US - Desktop	38	646	Synthetic - GSMC,Brand (Synthetic):Buick,Type (Synthetic):CORE
+4	Buick - US - Home 	38	836	"usersession.browserMonitorName Like ""*Buick*"" and usersession.browserMonitorName like ""*CORE*"" and usersession.browserMonitorName like ""*Mobile*"""
+5	Buick - US - Mobile	38	1482	Synthetic - GSMC,Brand (Synthetic):Buick,Type (Synthetic):CORE,Device (Synthetic):Mobile
+2	Cadillac - US - Home	190	0	"usersession.browserMonitorName Like ""*Cadillac*"" and usersession.browserMonitorName like ""*CORE*"" and usersession.browserMonitorName not like ""*Mobile*"""
+3	Cadillac - US - Desktop	190	646	Synthetic - GSMC,Brand (Synthetic):Cadillac,Type (Synthetic):CORE
+4	Cadillac - US - Home 	190	836	"usersession.browserMonitorName Like ""*Cadillac*"" and usersession.browserMonitorName like ""*CORE*"" and usersession.browserMonitorName like ""*Mobile*"""
+5	Cadillac - US - Mobile	190	1482	Synthetic - GSMC,Brand (Synthetic):Cadillac,Type (Synthetic):CORE,Device (Synthetic):Mobile
+2	Chevrolet - US - Home	342	0	"usersession.browserMonitorName Like ""*Chevrolet*"" and usersession.browserMonitorName like ""*CORE*"" and usersession.browserMonitorName not like ""*Mobile*"""
+3	Chevrolet - US - Desktop	342	646	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Type (Synthetic):CORE
+4	Chevrolet - US - Home 	342	836	"usersession.browserMonitorName Like ""*Chevrolet*"" and usersession.browserMonitorName like ""*CORE*"" and usersession.browserMonitorName like ""*Mobile*"""
+5	Chevrolet - US - Mobile	342	1482	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Type (Synthetic):CORE,Device (Synthetic):Mobile
+2	GMC - US - Home	494	0	"usersession.browserMonitorName Like ""*GMC*"" and usersession.browserMonitorName like ""*CORE*"" and usersession.browserMonitorName not like ""*Mobile*"""
+3	GMC - US - Desktop	494	646	Synthetic - GSMC,Brand (Synthetic):GMC,Type (Synthetic):CORE
+4	GMC - US - Home 	494	836	"usersession.browserMonitorName Like ""*GMC*"" and usersession.browserMonitorName like ""*CORE*"" and usersession.browserMonitorName like ""*Mobile*"""
+5	GMC - US - Mobile	494	1482	Synthetic - GSMC,Brand (Synthetic):GMC,Type (Synthetic):CORE,Device (Synthetic):Mobile
+2	Audi - US - Home	646	0	"usersession.browserMonitorName Like ""Audi USA -*"""
+3	Audi - US - Desktop	646	646	Synthetic - GSMC,Brand (Synthetic):Audi,Country (Synthetic):US
+4	Audi - US - Home 	646	836	"usersession.browserMonitorName Like ""*Audi USA Mobile*"""
+5	Audi - US - Mobile	646	1482	Synthetic - GSMC,Brand (Synthetic):Audi,Country (Synthetic):US,Device (Synthetic):Mobile
+2	Chrysler - US - Home	798	0	"usersession.browserMonitorName Like ""Chrysler USA -*"""
+3	Chrysler - US - Desktop	798	646	Synthetic - GSMC,Brand (Synthetic):Chrysler,Country (Synthetic):US
+4	Chrysler - US - Home 	798	836	"usersession.browserMonitorName Like ""*Chrysler USA Mobile*"""
+5	Chrysler - US - Mobile	798	1482	Synthetic - GSMC,Brand (Synthetic):Chrysler,Country (Synthetic):US,Device (Synthetic):Mobile
+2	Dodge - US - Home	950	0	"usersession.browserMonitorName Like ""Dodge USA -*"""
+3	Dodge - US - Desktop	950	646	Synthetic - GSMC,Brand (Synthetic):Dodge,Country (Synthetic):US
+4	Dodge - US - Home 	950	836	"usersession.browserMonitorName Like ""*Dodge USA Mobile*"""
+5	Dodge - US - Mobile	950	1482	Synthetic - GSMC,Brand (Synthetic):Dodge,Country (Synthetic):US,Device (Synthetic):Mobile
+2	Ford - US - Home	1102	0	"usersession.browserMonitorName Like ""Ford USA -*"""
+3	Ford - US - Desktop	1102	646	Synthetic - GSMC,Brand (Synthetic):Ford,Country (Synthetic):US
+4	Ford - US - Home 	1102	836	"usersession.browserMonitorName Like ""*Ford USA Mobile*"""
+5	Ford - US - Mobile	1102	1482	Synthetic - GSMC,Brand (Synthetic):Ford,Country (Synthetic):US,Device (Synthetic):Mobile
+2	Jeep - US - Home	1254	0	"usersession.browserMonitorName Like ""Jeep USA -*"""
+3	Jeep - US - Desktop	1254	646	Synthetic - GSMC,Brand (Synthetic):Jeep,Country (Synthetic):US
+4	Jeep - US - Home 	1254	836	"usersession.browserMonitorName Like ""*Jeep USA Mobile*"""
+5	Jeep - US - Mobile	1254	1482	Synthetic - GSMC,Brand (Synthetic):Jeep,Country (Synthetic):US,Device (Synthetic):Mobile
+2	Lincoln - US - Home	1406	0	"usersession.browserMonitorName Like ""Lincoln USA -*"""
+3	Lincoln - US - Desktop	1406	646	Synthetic - GSMC,Brand (Synthetic):Lincoln,Country (Synthetic):US
+4	Lincoln - US - Home 	1406	836	"usersession.browserMonitorName Like ""*Lincoln USA Mobile*"""
+5	Lincoln - US - Mobile	1406	1482	Synthetic - GSMC,Brand (Synthetic):Lincoln,Country (Synthetic):US,Device (Synthetic):Mobile
+2	RAM - US - Home	1558	0	"usersession.browserMonitorName Like ""RAM USA -*"""
+3	RAM - US - Desktop	1558	646	Synthetic - GSMC,Brand (Synthetic):RAM,Country (Synthetic):US
+4	RAM - US - Home 	1558	836	"usersession.browserMonitorName Like ""*RAM USA Mobile*"""
+5	RAM - US - Mobile	1558	1482	Synthetic - GSMC,Brand (Synthetic):RAM,Country (Synthetic):US,Device (Synthetic):Mobile
+2	Subaru - US - Home	1710	0	"usersession.browserMonitorName Like ""Subaru USA -*"""
+3	Subaru - US - Desktop	1710	646	Synthetic - GSMC,Brand (Synthetic):Subaru,Country (Synthetic):US
+4	Subaru - US - Home 	1710	836	"usersession.browserMonitorName Like ""*Subaru USA Mobile*"""
+5	Subaru - US - Mobile	1710	1482	Synthetic - GSMC,Brand (Synthetic):Subaru,Country (Synthetic):US,Device (Synthetic):Mobile
+2	Toyota - US - Home	1862	0	"usersession.browserMonitorName Like ""Toyota USA -*"""
+3	Toyota - US - Desktop	1862	646	Synthetic - GSMC,Brand (Synthetic):Toyota,Country (Synthetic):US
+4	Toyota - US - Home 	1862	836	"usersession.browserMonitorName Like ""*Toyota USA Mobile*"""
+5	Toyota - US - Mobile	1862	1482	Synthetic - GSMC,Brand (Synthetic):Toyota,Country (Synthetic):US,Device (Synthetic):Mobile
+2	Volvo - US - Home	2014	0	"usersession.browserMonitorName Like ""Volvo USA -*"""
+3	Volvo - US - Desktop	2014	646	Synthetic - GSMC,Brand (Synthetic):Volvo,Country (Synthetic):US
+4	Volvo - US - Home 	2014	836	"usersession.browserMonitorName Like ""*Volvo USA Mobile*"""
+5	Volvo - US - Mobile	2014	1482	Synthetic - GSMC,Brand (Synthetic):Volvo,Country (Synthetic):US,Device (Synthetic):Mobile
+2	VW - US - Home	2166	0	"usersession.browserMonitorName Like ""VW USA -*"""
+3	VW - US - Desktop	2166	646	Synthetic - GSMC,Brand (Synthetic):VW,Country (Synthetic):US
+4	VW - US - Home 	2166	836	"usersession.browserMonitorName Like ""*VW USA Mobile*"""
+5	VW - US - Mobile	2166	1482	Synthetic - GSMC,Brand (Synthetic):VW,Country (Synthetic):US,Device (Synthetic):Mobile
