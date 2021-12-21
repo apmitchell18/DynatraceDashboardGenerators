@@ -18,6 +18,6 @@ L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.bro
 M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Trim"	usersession.browserMonitorName = "GMC Mobile Canada EN - BYO Terrain - GMCA - GSMC"	Step
 N	4	LNV Results - Mobile	646	950	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "GMC Mobile Canada EN - Tools Sierra 1500 - GMCA - GSMC"	Step
 O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "GMC Mobile Canada EN - Tools Sierra 1500 - GMCA - GSMC"	Step
-P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName like "GMC Canada EN - Model Overview*" or usersession.browserMonitorName like "GMC Canada FR - Model Overview*"	Monitor
-Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName like "GMC Mobile Canada EN - Model Overview*" or usersession.browserMonitorName like "GMC Mobile Canada FR - Model Overview*"	Monitor
+P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	(usersession.browserMonitorName like "GMC Canada EN - Model Overview*" or usersession.browserMonitorName like "GMC Canada FR - Model Overview*")	Monitor
+Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	(usersession.browserMonitorName like "GMC Mobile Canada EN - Model Overview*" or usersession.browserMonitorName like "GMC Mobile Canada FR - Model Overview*")	Monitor
 R	6	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Canada	1026	0
