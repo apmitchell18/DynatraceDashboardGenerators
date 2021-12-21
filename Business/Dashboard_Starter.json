@@ -1,0 +1,13 @@
+{
+  "dashboardMetadata": {
+    "name": "Template",
+    "shared": true,
+    "owner": "qzfdws",
+    "dashboardFilter": {
+      "timeframe": "-24h",
+      "managementZone": null
+    }
+  },
+  "tiles": [
+  ]
+}

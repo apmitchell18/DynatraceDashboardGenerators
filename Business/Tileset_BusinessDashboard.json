@@ -1,0 +1,148 @@
+{
+  "tiles": [
+    {
+      "name": "HEADER",
+      "tileType": "HEADER",
+      "configured": true,
+      "bounds": {
+        "top": 0,
+        "left": 38,
+        "width": 304,
+        "height": 38
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      }
+    },
+    {
+      "name": "SINGLE STEP BAR",
+      "tileType": "DTAQL",
+      "configured": true,
+      "bounds": {
+        "top": "INSERT_TOP",
+        "left": "INSERT_LEFT",
+        "width": 304,
+        "height": 304
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      },
+      "customName": "INSERT_NAME",
+      "query": "INSERT_QUERY",
+      "type": "COLUMN_CHART",
+      "timeFrameShift": "-1w"
+    },
+    {
+      "name": "SINGLE STEP SINGLE VALUE",
+      "tileType": "DTAQL",
+      "configured": true,
+      "bounds": {
+        "top": "INSERT_TOP",
+        "left": "INSERT_LEFT",
+        "width": 304,
+        "height": 152
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      },
+      "customName": "INSERT_NAME",
+      "query": "INSERT_QUERY",
+      "type": "SINGLE_VALUE",
+      "timeFrameShift": "-1w"
+    },
+    {
+      "name": "MULTI-STEP BAR",
+      "tileType": "DTAQL",
+      "configured": true,
+      "bounds": {
+        "top": "INSERT_TOP",
+        "left": "INSERT_LEFT",
+        "width": 608,
+        "height": 456
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      },
+      "customName": "INSERT_NAME",
+      "query": "INSERT_QUERY",
+      "type": "COLUMN_CHART",
+      "timeFrameShift": "-1w"
+    },
+    {
+      "name": "SINGLE STEP SINGLE VALUE 2",
+      "tileType": "DTAQL",
+      "configured": true,
+      "bounds": {
+        "top": "INSERT_TOP",
+        "left": "INSERT_LEFT",
+        "width": 266,
+        "height": 152
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      },
+      "customName": "INSERT_NAME",
+      "query": "INSERT_QUERY",
+      "type": "SINGLE_VALUE",
+      "timeFrameShift": "-1w"
+    },
+    {
+      "name": "MULTI-MONITOR BAR",
+      "tileType": "DTAQL",
+      "configured": true,
+      "bounds": {
+        "top": "INSERT_TOP",
+        "left": "INSERT_LEFT",
+        "width": 722,
+        "height": 570
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      },
+      "customName": "INSERT_NAME",
+      "query": "INSERT_QUERY",
+      "type": "COLUMN_CHART",
+      "timeFrameShift": "-1w"
+    },
+    {
+      "name": "SYNTHETIC MONITOR OVERVIEW",
+      "tileType": "SYNTHETIC_TESTS",
+      "configured": true,
+      "bounds": {
+        "top": 1026,
+        "left": 0,
+        "width": 304,
+        "height": 190
+      },
+      "tileFilter": {
+        "timeframe": null,
+        "managementZone": null
+      },
+      "filterConfig": {
+        "type": "WEB_CHECK",
+        "customName": "",
+        "defaultName": "Tagged synthetic monitor",
+        "chartConfig": {
+          "type": "TIMESERIES",
+          "series": [],
+          "resultMetadata": {}
+        },
+        "filtersPerEntityType": {
+          "WEB_CHECK": {
+            "AUTO_TAGS": [
+              "Canada",
+              "Buick"
+            ]
+          }
+        }
+      },
+      "chartVisible": true
+    }
+  ]
+}
