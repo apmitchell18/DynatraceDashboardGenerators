@@ -1,0 +1,23 @@
+H1	0	Home Page Average	0	0
+H2	0	Overview Pages	0	1786
+H3	0	Shopping Tools - Desktop	0	494
+H4	0	Shopping Tools - Mobile	0	1102
+H5	0	Test Summary	988	0
+A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC USA - BYO Terrain - CORE - GSMC", "GMC USA - Inventory Sierra 1500 - CORE - GSMC", "GMC USA - Model Overview Sierra 1500 - CORE - GSMC",  "GMC USA - Tools - CORE - GSMC")	Step
+B	2	GMC Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC USA - BYO Terrain - CORE - GSMC", "GMC USA - Inventory Sierra 1500 - CORE - GSMC", "GMC USA - Model Overview Sierra 1500 - CORE - GSMC",  "GMC USA - Tools - CORE - GSMC")	Step
+C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC USA Mobile - Model Overview Sierra - CORE - GSMC", "GMC USA Mobile - BYO Sierra - CORE - GSMC", "GMC USA Mobile - Tools Sierra - CORE - GSMC")	Step
+D	2	GMC Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC USA Mobile - Model Overview Sierra - CORE - GSMC", "GMC USA Mobile - BYO Sierra - CORE - GSMC", "GMC USA Mobile - Tools Sierra - CORE - GSMC")	Step
+E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Trims", "Inventory: Results", "LAD: Results", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("GMC USA - BYO Terrain - CORE - GSMC", "GMC USA - Inventory Sierra 1500 - CORE - GSMC", "GMC USA - Tools - CORE - GSMC")	Step
+F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("Inventory: Results", "LAD: Results", "RAQ: Form Entry","BYO: Step 1: Configurations")	usersession.browserMonitorName In("GMC USA Mobile - BYO Sierra - CORE - GSMC", "GMC USA Mobile - Tools Sierra - CORE - GSMC")	Step
+G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Trims"	usersession.browserMonitorName = "GMC USA - BYO Terrain - CORE - GSMC"	Step
+H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "GMC USA - Tools - CORE - GSMC"	Step
+I	4	Inventory Results - Desktop	646	342	syntheticEvent = "Inventory: Results"	usersession.browserMonitorName = "GMC USA - Inventory Sierra 1500 - CORE - GSMC"	Step
+J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "GMC USA - Tools - CORE - GSMC"	Step
+K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "GMC USA - Tools - CORE - GSMC"	Step
+L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "GMC USA Mobile - Tools Sierra - CORE - GSMC"	Step
+M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Configurations"	usersession.browserMonitorName = "GMC USA Mobile - BYO Sierra - CORE - GSMC"	Step
+N	4	Inventory Results - Mobile	646	950	syntheticEvent = "Inventory: Results"	usersession.browserMonitorName = "GMC USA Mobile - Tools Sierra - CORE - GSMC"	Step
+O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "GMC USA Mobile - Tools Sierra - CORE - GSMC"	Step
+P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("GMC USA - Model Overview Sierra 1500 - CORE - GSMC", "GMC USA - Model Overview Terrain - GSMC")	Monitor
+Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("GMC USA Mobile - Model Overview Sierra - CORE - GSMC", "GMC USA Mobile - Model Overview Terrain - GSMC")	Monitor
+R	6 Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):US
