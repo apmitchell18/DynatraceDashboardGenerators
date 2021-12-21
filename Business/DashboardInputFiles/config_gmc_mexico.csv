@@ -3,21 +3,21 @@ H2	0	Overview Pages	0	1786
 H3	0	Shopping Tools - Desktop	0	494
 H4	0	Shopping Tools - Mobile	0	1102
 H5	0	Test Summary	988	0
-A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC Mexico - Alerts - Chrome Agent", "GMC Mexico - LNV Terrain - GMNA", "GMC Mexico - Model Overview Terrain - GMNA",  "GMC Mexico - Tools - GMNA")	Step
-B	2	GMC Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC Mexico - Alerts - Chrome Agent", "GMC Mexico - LNV Terrain - GMNA", "GMC Mexico - Model Overview Terrain - GMNA",  "GMC Mexico - Tools - GMNA")	Step
-C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC Mobile Mexico - Model Overview Sierra - GMNA", "GMC Mobile Mexico - Model Overview Terrain - GMNA", "GMC Mobile Mexico - Tools - GMNA")	Step
-D	2	GMC Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC Mobile Mexico - Model Overview Sierra - GMNA", "GMC Mobile Mexico - Model Overview Terrain - GMNA", "GMC Mobile Mexico - Tools - GMNA")	Step
-E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Trim", "LNV: Vehicle Select", "LAD: Zip Entry", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("GMC Mexico - Alerts - Chrome Agent", "GMC Mexico - LNV Terrain - GMNA", "GMC Mexico - Model Overview Terrain - GMNA",  "GMC Mexico - Tools - GMNA")	Step
-F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results", "LAD: Zip Entry", "RAQ: Form Entry","BYO: Step 1: Trim")	usersession.browserMonitorName in ("GMC Mobile Mexico - Model Overview Sierra - GMNA", "GMC Mobile Mexico - Model Overview Terrain - GMNA", "GMC Mobile Mexico - Tools - GMNA")	Step
-G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Trims"	usersession.browserMonitorName = "GMC Mexico - Alerts - Chrome Agent"	Step
-H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Zip Entry"	usersession.browserMonitorName = "GMC Mexico - Tools - GMNA"	Step
-I	4	LNV Results - Desktop	646	342	syntheticEvent = "LNV: Vehicle Select"	usersession.browserMonitorName = "GMC Mexico - LNV Terrain - GMNA"	Step
-J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "GMC Mexico - Tools - GMNA"	Step
-K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "GMC Mexico - Tools - GMNA"	Step
-L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Zip Entry"	usersession.browserMonitorName = "GMC Mobile Mexico - Tools - GMNA"	Step
+A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC Mexico - Alerts - Chrome Agent - GSMC", "GMC Mexico - LNV Terrain - GMNA - GSMC", "GMC Mexico - Model Overview Terrain - GMNA - GSMC",  "GMC Mexico - Tools - GMNA - GSMC")	Step
+B	2	GMC Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC Mexico - Alerts - Chrome Agent - GSMC", "GMC Mexico - LNV Terrain - GMNA - GSMC", "GMC Mexico - Model Overview Terrain - GMNA - GSMC",  "GMC Mexico - Tools - GMNA - GSMC")	Step
+C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC Mobile Mexico - Model Overview Sierra - GMNA - GSMC", "GMC Mobile Mexico - Model Overview Terrain - GMNA - GSMC", "GMC Mobile Mexico - Tools - GMNA - GSMC")	Step
+D	2	GMC Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("GMC Mobile Mexico - Model Overview Sierra - GMNA - GSMC", "GMC Mobile Mexico - Model Overview Terrain - GMNA - GSMC", "GMC Mobile Mexico - Tools - GMNA - GSMC")	Step
+E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Trim", "LNV: Vehicle Select", "LAD: Zip Entry", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("GMC Mexico - Alerts - Chrome Agent - GSMC", "GMC Mexico - LNV Terrain - GMNA - GSMC", "GMC Mexico - Model Overview Terrain - GMNA - GSMC",  "GMC Mexico - Tools - GMNA - GSMC")	Step
+F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results", "LAD: Zip Entry", "RAQ: Form Entry","BYO: Step 1: Trim")	usersession.browserMonitorName in ("GMC Mobile Mexico - Model Overview Sierra - GMNA - GSMC", "GMC Mobile Mexico - Model Overview Terrain - GMNA - GSMC", "GMC Mobile Mexico - Tools - GMNA - GSMC")	Step
+G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Trims"	usersession.browserMonitorName = "GMC Mexico - Alerts - Chrome Agent - GSMC"	Step
+H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Zip Entry"	usersession.browserMonitorName = "GMC Mexico - Tools - GMNA - GSMC"	Step
+I	4	LNV Results - Desktop	646	342	syntheticEvent = "LNV: Vehicle Select"	usersession.browserMonitorName = "GMC Mexico - LNV Terrain - GMNA - GSMC"	Step
+J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "GMC Mexico - Tools - GMNA - GSMC"	Step
+K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "GMC Mexico - Tools - GMNA - GSMC"	Step
+L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Zip Entry"	usersession.browserMonitorName = "GMC Mobile Mexico - Tools - GMNA - GSMC"	Step
 M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Trim"		Step
-N	4	LNV Results - Mobile	646	950	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "GMC Mobile Mexico - Tools - GMNA"	Step
-O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "GMC Mobile Mexico - Tools - GMNA"	Step
-P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("GMC Mexico - Model Overview Sierra - GMNA", "GMC Mexico - Model Overview Terrain - GMNA")	Monitor
-Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("GMC Mobile Mexico - Model Overview Sierra - GMNA", "GMC Mobile Mexico - Model Overview Terrain - GMNA")	Monitor
-R	6	Status	1026	0	GMC,Mexico
+N	4	LNV Results - Mobile	646	950	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "GMC Mobile Mexico - Tools - GMNA - GSMC"	Step
+O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "GMC Mobile Mexico - Tools - GMNA - GSMC"	Step
+P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("GMC Mexico - Model Overview Sierra - GMNA - GSMC", "GMC Mexico - Model Overview Terrain - GMNA - GSMC")	Monitor
+Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("GMC Mobile Mexico - Model Overview Sierra - GMNA - GSMC", "GMC Mobile Mexico - Model Overview Terrain - GMNA - GSMC")	Monitor
+R	6	Synthetic - GSMC,Brand (Synthetic):GMC,Country (Synthetic):Mexico	1026	0

@@ -3,21 +3,21 @@ H2	0	Overview Pages	0	1786
 H3	0	Shopping Tools - Desktop	0	494
 H4	0	Shopping Tools - Mobile	0	1102
 H5	0	Test Summary	988	0
-A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Mexico - Alerts - Chrome Agent", "Cadillac Mexico - Model Overview ATS - GMNA", "Cadillac Mexico - Tools - GMNA")	Step
-B	2	Cadillac Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Mexico - Alerts - Chrome Agent", "Cadillac Mexico - Model Overview ATS - GMNA", "Cadillac Mexico - Tools - GMNA")	Step
-C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Mobile Mexico - Model Overview ATS - GMNA", "Cadillac Mobile Mexico - Tools - GMNA")	Step
-D	2	Cadillac Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Mobile Mexico - Model Overview ATS - GMNA", "Cadillac Mobile Mexico - Tools - GMNA")	Step
-E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Trims", "LNV: Results", "LAD: Results", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("Cadillac Mexico - Alerts - Chrome Agent", "Cadillac Mexico - Model Overview ATS - GMNA", "Cadillac Mexico - Tools - GMNA")	Step
-F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results", "LAD: Results", "RAQ: Form Entry","BYO: Step 1: Trim")	usersession.browserMonitorName in ("Cadillac Mobile Mexico - Model Overview ATS - GMNA", "Cadillac Mobile Mexico - Tools - GMNA")	Step
+A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Mexico - Alerts - Chrome Agent", "Cadillac Mexico - Model Overview XT5 - GMNA - GSMC", "Cadillac Mexico - Tools - GMNA - GSMC")	Step
+B	2	Cadillac Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Mexico - Alerts - Chrome Agent", "Cadillac Mexico - Model Overview XT5 - GMNA - GSMC", "Cadillac Mexico - Tools - GMNA - GSMC")	Step
+C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Mobile Mexico - Model Overview XT5 - GMNA - GSMC", "Cadillac Mobile Mexico - Tools - GMNA - GSMC")	Step
+D	2	Cadillac Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Mobile Mexico - Model Overview XT5 - GMNA - GSMC", "Cadillac Mobile Mexico - Tools - GMNA - GSMC")	Step
+E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Trims", "LNV: Results", "LAD: Results", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("Cadillac Mexico - Alerts - Chrome Agent", "Cadillac Mexico - Model Overview XT5 - GMNA - GSMC", "Cadillac Mexico - Tools - GMNA - GSMC")	Step
+F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results", "LAD: Results", "RAQ: Form Entry","BYO: Step 1: Trim")	usersession.browserMonitorName in ("Cadillac Mobile Mexico - Model Overview XT5 - GMNA - GSMC", "Cadillac Mobile Mexico - Tools - GMNA - GSMC")	Step
 G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Trims"	usersession.browserMonitorName = ""	Step
-H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Cadillac Mexico - Tools - GMNA"	Step
+H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Cadillac Mexico - Tools - GMNA - GSMC"	Step
 I	4	LNV Results - Desktop	646	342	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = ""	Step
 J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Cadillac Mexico - Alerts - Chrome Agent"	Step
-K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Cadillac Mexico - Tools - GMNA"	Step
-L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Cadillac Mobile Mexico - Tools - GMNA"	Step
+K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Cadillac Mexico - Tools - GMNA - GSMC"	Step
+L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Cadillac Mobile Mexico - Tools - GMNA - GSMC"	Step
 M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Trim"		Step
-N	4	LNV Results - Mobile	646	950	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Cadillac Mobile Mexico - Tools - GMNA"	Step
-O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ"	usersession.browserMonitorName = "Cadillac Mobile Mexico - Tools - GMNA"	Step
-P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Cadillac Mexico - Model Overview ATS - GMNA")	Monitor
-Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Cadillac Mobile Mexico - Model Overview ATS - GMNA")	Monitor
-R	6	Status	1026	0	Cadillac,Mexico
+N	4	LNV Results - Mobile	646	950	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Cadillac Mobile Mexico - Tools - GMNA - GSMC"	Step
+O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ"	usersession.browserMonitorName = "Cadillac Mobile Mexico - Tools - GMNA - GSMC"	Step
+P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Cadillac Mexico - Model Overview XT5 - GMNA - GSMC", "Cadillac Mexico - Model Overview XT4 - GMNA - GSMC")	Monitor
+Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Cadillac Mobile Mexico - Model Overview XT5 - GMNA - GSMC", "Cadillac Mobile Mexico - Model Overview XT4 - GMNA - GSMC")	Monitor
+R	6	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Mexico	1026	0
