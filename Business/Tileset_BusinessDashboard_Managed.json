@@ -136,8 +136,7 @@
         "filtersPerEntityType": {
           "WEB_CHECK": {
             "AUTO_TAGS": [
-              "Canada",
-              "Buick"
+              "INSERT_TAGS_HERE"
             ]
           }
         }

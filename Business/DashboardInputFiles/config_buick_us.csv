@@ -20,4 +20,4 @@ N	4	Inventory Results - Mobile	646	950	syntheticEvent = "Inventory: Results"	use
 O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Buick USA Mobile - Tools Regal - CORE - GSMC"	Step
 P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Buick USA - Model Overview Encore - GSMC", "Buick USA - Model Overview Envision - CORE - GSMC")	Monitor
 Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Buick USA Mobile - Model Overview Envision - CORE - GSMC", "Buick USA Mobile - Model Overview Encore - GSMC")	Monitor
-R	6 Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):US
+R	6	Synthetic - GSMC,Brand (Synthetic):Buick,Country (Synthetic):US
