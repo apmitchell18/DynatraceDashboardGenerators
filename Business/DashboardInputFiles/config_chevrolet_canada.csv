@@ -13,7 +13,7 @@ G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Configurations"	us
 H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Canada EN - Tools - GMCA - GSMC"	Step
 I	4	LNV Results - Desktop	646	342	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "Chevrolet Canada EN - LNV Silverado 1500 - GMCA - GSMC"	Step
 J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Chevrolet Canada EN - Tools - GMCA - GSMC"	Step
-K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Canada EN - Tools - GMCA - GSMC"	Step"
+K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Canada EN - Tools - GMCA - GSMC"	Step
 L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Mobile Canada EN - Tools Silverado 1500 - GMCA - GSMC"	Step
 M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Trim"	usersession.browserMonitorName = "Chevrolet Mobile Canada EN - BYO Silverado 1500 - GMCA - GSMC"	Step
 N	4	LNV Results - Mobile	646	950	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "Chevrolet Mobile Canada EN - Tools Silverado 1500 - GMCA - GSMC"	Step
