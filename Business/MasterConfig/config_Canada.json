@@ -5,15 +5,15 @@
   "dashboards_to_generate": [
     {
       "dashboard_data_file": "config_buick_canada.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Canada - Buick",
-      "existing_id": "N/A"
+      "existing_id": "4c32cf7d-d04c-4cb5-9970-b9bb22eb28cb"
     },
     {
       "dashboard_data_file": "config_cadillac_canada.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Canada - Cadillac",
-      "existing_id": "N/A"
+      "existing_id": "9f02b1e5-71b3-44c7-9c0f-bd146d8a1d79"
     },
     {
       "dashboard_data_file": "config_chevrolet_canada.csv",
