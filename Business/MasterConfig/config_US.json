@@ -5,27 +5,27 @@
   "dashboards_to_generate": [
     {
       "dashboard_data_file": "config_buick_us.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - US - Buick",
-      "existing_id": "N/A"
+      "existing_id": "260c7041-7cda-4426-b5f6-b627ce7b5d13"
     },
     {
       "dashboard_data_file": "config_cadillac_us.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - US - Cadillac",
-      "existing_id": "N/A"
+      "existing_id": "cd6007f8-5079-470f-943a-22ce655e9dbd"
     },
     {
       "dashboard_data_file": "config_chevrolet_us.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - US - Chevrolet",
-      "existing_id": "N/A"
+      "existing_id": "1c7d4df1-2478-479d-ae54-5ede7857b36c"
     },
     {
       "dashboard_data_file": "config_gmc_us.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - US - GMC",
-      "existing_id": "N/A"
+      "existing_id": "7b25183e-5355-44b6-b85b-3cf9d1cb4023"
     }
   ]
 }
