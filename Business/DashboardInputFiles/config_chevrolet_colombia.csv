@@ -1,0 +1,23 @@
+H1	0	Home Page Average	0	0
+H2	0	Overview Pages	0	1786
+H3	0	Shopping Tools - Desktop	0	494
+H4	0	Shopping Tools - Mobile	0	1102
+H5	0	Test Summary	988	0
+A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Colombia - Model Overview Cruze - GMSA",  "Chevrolet Colombia - Model Overview Spark - GMSA", "Chevrolet Colombia - Model Overview Tahoe - GMSA", "Chevrolet Colombia - Model Overview Traverse - GMSA")	Step
+B	2	Buick Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Colombia - Model Overview Cruze - GMSA",  "Chevrolet Colombia - Model Overview Spark - GMSA", "Chevrolet Colombia - Model Overview Tahoe - GMSA", "Chevrolet Colombia - Model Overview Traverse - GMSA")	Step
+C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Colombia - Model Overview Cruze - GMSA", "Chevrolet Mobile Colombia - Model Overview Spark - GMSA", "Chevrolet Mobile Colombia - Model Overview Tahoe - GMSA", "Chevrolet Mobile Colombia - Model Overview Traverse - GMSA")	Step
+D	2	Buick Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Colombia - Model Overview Cruze - GMSA", "Chevrolet Mobile Colombia - Model Overview Spark - GMSA", "Chevrolet Mobile Colombia - Model Overview Tahoe - GMSA", "Chevrolet Mobile Colombia - Model Overview Traverse - GMSA")	Step
+E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Trim", "LNV: Results", "LAD: Zip Entry", "RAQ", "Offers: Results")	usersession.browserMonitorName in ("Chevrolet Colombia - Model Overview Cruze - GMSA")	Step
+F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results", "LAD: Zip Entry", "RAQ","BYO: Step 1: Trim")	usersession.browserMonitorName In("Chevrolet Mobile Colombia - Model Overview Cruze - GMSA")	Step
+G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Trim"	usersession.browserMonitorName = "N/A"	Step
+H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Zip Entry"	usersession.browserMonitorName = "Chevrolet Colombia - Model Overview Cruze - GMSA"	Step
+I	4	LNV Results - Desktop	646	342	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "N/A"	Step
+J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Chevrolet Colombia - Model Overview Cruze - GMSA"	Step
+K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ"	usersession.browserMonitorName = "Chevrolet Colombia - Model Overview Cruze - GMSA"	Step
+L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Mobile Colombia - Model Overview Cruze - GMSA"	Step
+M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Trim"	usersession.browserMonitorName = "N/A"	Step
+N	4	LNV Results - Mobile	646	950	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "Chevrolet Mobile Colombia - Model Overview Cruze - GMSA"	Step
+O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ"	usersession.browserMonitorName = "Chevrolet Mobile Colombia - Model Overview Cruze - GMSA"	Step
+P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Chevrolet Colombia - Model Overview Cruze - GMSA",  "Chevrolet Colombia - Model Overview Spark - GMSA", "Chevrolet Colombia - Model Overview Tahoe - GMSA", "Chevrolet Colombia - Model Overview Traverse - GMSA")	Monitor
+Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Chevrolet Mobile Colombia - Model Overview Cruze - GMSA", "Chevrolet Mobile Colombia - Model Overview Spark - GMSA", "Chevrolet Mobile Colombia - Model Overview Tahoe - GMSA", "Chevrolet Mobile Colombia - Model Overview Traverse - GMSA")	Monitor
+R	6	Status	1026	0	Chevrolet,Colombia

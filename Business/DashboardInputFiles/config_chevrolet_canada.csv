@@ -1,0 +1,23 @@
+H1	0	Home Page Average	0	0
+H2	0	Overview Pages	0	1786
+H3	0	Shopping Tools - Desktop	0	494
+H4	0	Shopping Tools - Mobile	0	1102
+H5	0	Test Summary	988	0
+A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Canada EN - BYO Silverado 1500 - GMCA - GSMC","Chevrolet Canada EN - LNV Silverado 1500 - GMCA - GSMC","Chevrolet Canada EN - Model Overview Equinox - GMCA - GSMC","  "Chevrolet Canada EN - Tools - GMCA - GSMC")	Step
+B	2	Chevrolet Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Canada EN - BYO Silverado 1500 - GMCA - GSMC","Chevrolet Canada EN - LNV Silverado 1500 - GMCA - GSMC","Chevrolet Canada EN - Model Overview Equinox - GMCA - GSMC","  "Chevrolet Canada EN - Tools - GMCA - GSMC")	Step
+C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Canada EN - Model Overview Silverado LD - GMCA - GSMC","Chevrolet Mobile Canada EN - Tools Silverado 1500 - GMCA - GSMC")	Step
+D	2	Chevrolet Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Canada EN - Model Overview Silverado LD - GMCA - GSMC","Chevrolet Mobile Canada EN - Tools Silverado 1500 - GMCA - GSMC")	Step
+E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Configurations","LNV: Results","LAD: Results","RAQ: Form Entry","Offers: Results")	usersession.browserMonitorName in ("Chevrolet Canada EN - BYO Silverado 1500 - GMCA - GSMC","Chevrolet Canada EN - LNV Silverado 1500 - GMCA - GSMC","Chevrolet Canada EN - Tools - GMCA - GSMC")	Step
+F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results","LAD: Results","RAQ: Form Entry","BYO: Step 1: Trim)	usersession.browserMonitorName In("Chevrolet Mobile Canada EN - Tools Silverado 1500 - GMCA - GSMC")	Step
+G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Configurations"	usersession.browserMonitorName = "Chevrolet Canada EN - BYO Silverado 1500 - GMCA - GSMC"	Step
+H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Canada EN - Tools - GMCA - GSMC"	Step
+I	4	LNV Results - Desktop	646	342	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "Chevrolet Canada EN - LNV Silverado 1500 - GMCA - GSMC"	Step
+J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Chevrolet Canada EN - Tools - GMCA - GSMC"	Step
+K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Canada EN - Tools - GMCA - GSMC"	Step"
+L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Mobile Canada EN - Tools Silverado 1500 - GMCA - GSMC"	Step
+M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Trim"	usersession.browserMonitorName = "Chevrolet Mobile Canada EN - BYO Silverado 1500 - GMCA - GSMC"	Step
+N	4	LNV Results - Mobile	646	950	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "Chevrolet Mobile Canada EN - Tools Silverado 1500 - GMCA - GSMC"	Step
+O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Mobile Canada EN - Tools Silverado 1500 - GMCA - GSMC"	Step
+P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName like "Chevrolet Canada EN - Model Overview*" or usersession.browserMonitorName like "Chevrolet Canada FR - Model Overview*"	Monitor
+Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName like "Chevrolet Mobile Canada EN - Model Overview*" or usersession.browserMonitorName like "Chevrolet Mobile Canada FR - Model Overview*"	Monitor
+R	6	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Canada	1026	0

@@ -1,0 +1,23 @@
+H1	0	Home Page Average	0	0
+H2	0	Overview Pages	0	1786
+H3	0	Shopping Tools - Desktop	0	494
+H4	0	Shopping Tools - Mobile	0	1102
+H5	0	Test Summary	988	0
+A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Chile - Tools - GMSA", "Chevrolet Ecuador - Tools - GMSA", "Chevrolet Paraguay - Model Overview Onix - GMSA", "Chevrolet Peru - Model Overview Onix - GMSA",  "Chevrolet Uruguay - Model Overview Onix - GMSA")	Step
+B	2	Chevrolet Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Chile - Tools - GMSA", "Chevrolet Ecuador - Tools - GMSA", "Chevrolet Paraguay - Model Overview Onix - GMSA", "Chevrolet Peru - Model Overview Onix - GMSA",  "Chevrolet Uruguay - Model Overview Onix - GMSA")	Step
+C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Chile - Model Overview Cruze - GMSA", "Chevrolet Mobile Paraguay - Model Overview Onix - GMSA", "Chevrolet Mobile Peru - Model Overview Spin - GMSA", "Chevrolet Mobile Uruguay - Model Overview Equinox - GMSA")	Step
+D	2	Chevrolet Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Chile - Model Overview Cruze - GMSA", "Chevrolet Mobile Paraguay - Model Overview Onix - GMSA", "Chevrolet Mobile Peru - Model Overview Spin - GMSA", "Chevrolet Mobile Uruguay - Model Overview Equinox - GMSA")	Step
+E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Trim", "LNV: Results", "LAD: Results", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("Chevrolet Chile - Tools - GMSA", "Chevrolet Ecuador - Tools - GMSA", "Chevrolet Paraguay - Model Overview Onix - GMSA", "Chevrolet Peru - Model Overview Onix - GMSA",  "Chevrolet Uruguay - Model Overview Onix - GMSA")	Step
+F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results", "LAD: Zip Entry", "RAQ: Form Entry","BYO: Step 1: Trim")	usersession.browserMonitorName in ("Chevrolet Mobile Chile - Model Overview Cruze - GMSA", "Chevrolet Mobile Paraguay - Model Overview Onix - GMSA", "Chevrolet Mobile Peru - Model Overview Spin - GMSA", "Chevrolet Mobile Uruguay - Model Overview Equinox - GMSA")	Step
+G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Trim"	usersession.browserMonitorName = ""	Step
+H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Zip Entry"	usersession.browserMonitorName = "Chevrolet Chile - Tools - GMSA"	Step
+I	4	LNV Results - Desktop	646	342	syntheticEvent = "LNV: Vehicle Select"	usersession.browserMonitorName = ""	Step
+J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = ""	Step
+K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Chile - Tools - GMSA"	Step
+L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Zip Entry"	usersession.browserMonitorName = "Chevrolet Mobile Chile - Model Overview Cruze - GMSA"	Step
+M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Trim"	usersession.browserMonitorName = ""	Step
+N	4	LNV Results - Mobile	646	950	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = ""	Step
+O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Mobile Chile - Model Overview Cruze - GMSA"	Step
+P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Chevrolet Chile - Model Overview Cruze - GMSA", "Chevrolet Ecuador - Model Overview Blazer - GMSA", "Chevrolet Paraguay - Model Overview Onix - GMSA", "Chevrolet Peru - Model Overview Onix - GMSA",  "Chevrolet Uruguay - Model Overview Onix - GMSA")	Monitor
+Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Chevrolet Mobile Chile - Model Overview Cruze - GMSA", "Chevrolet Mobile Ecuador - Model Overview Spark - GMSA", "Chevrolet Mobile Paraguay - Model Overview Onix - GMSA", "Chevrolet Mobile Peru - Model Overview Spin - GMSA", "Chevrolet Mobile Uruguay - Model Overview Equinox - GMSA")	Monitor
+R	6	Status	1026	0	Chevrolet,GMSA Minor

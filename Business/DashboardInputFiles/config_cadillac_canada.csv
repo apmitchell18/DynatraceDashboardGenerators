@@ -1,0 +1,23 @@
+H1	0	Home Page Average	0	0
+H2	0	Overview Pages	0	1786
+H3	0	Shopping Tools - Desktop	0	494
+H4	0	Shopping Tools - Mobile	0	1102
+H5	0	Test Summary	988	0
+A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Canada EN - BYO XT5 - GMCA - GSMC", "Cadillac Canada EN - LNV XT5 - GMCA - GSMC", "Cadillac Canada EN - Model Overview XT5 - GMCA - GSMC",  "Cadillac Canada EN - Tools - GMCA - GSMC")	Step
+B	2	Cadillac Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Canada EN - BYO XT5 - GMCA - GSMC", "Cadillac Canada EN - LNV XT5 - GMCA - GSMC", "Cadillac Canada EN - Model Overview XT5 - GMCA - GSMC",  "Cadillac Canada EN - Tools - GMCA - GSMC")	Step
+C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Mobile Canada EN - Model Overview XT5 - GMCA - GSMC", "Cadillac Mobile Canada EN - Tools XT5 - GMCA - GSMC")	Step
+D	2	Cadillac Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Cadillac Mobile Canada EN - Model Overview XT5 - GMCA - GSMC", "Cadillac Mobile Canada EN - Tools XT5 - GMCA - GSMC")	Step
+E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Trims", "LNV: Results", "LAD: Results", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("Cadillac Canada EN - BYO XT5 - GMCA - GSMC", "Cadillac Canada EN - LNV XT5 - GMCA - GSMC", "Cadillac Canada EN - Tools - GMCA - GSMC")	Step
+F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results", "LAD: Results", "RAQ: Form Entry","BYO: Step 1: Trim")	usersession.browserMonitorName In("Cadillac Mobile Canada EN - Tools XT5 - GMCA - GSMC")	Step
+G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Trims"	usersession.browserMonitorName = "Cadillac Canada EN - BYO XT5 - GMCA - GSMC"	Step
+H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Cadillac Canada EN - Tools - GMCA - GSMC"	Step
+I	4	LNV Results - Desktop	646	342	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "Cadillac Canada EN - LNV XT5 - GMCA - GSMC"	Step
+J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Cadillac Canada EN - Tools - GMCA - GSMC"	Step
+K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Cadillac Canada EN - Tools - GMCA - GSMC"	Step
+L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Cadillac Mobile Canada EN - Tools XT5 - GMCA - GSMC"	Step
+M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Trim"	usersession.browserMonitorName = "Cadillac Mobile Canada EN - BYO XT5 - GMCA - GSMC"	Step
+N	4	LNV Results - Mobile	646	950	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "Cadillac Mobile Canada EN - Tools XT5 - GMCA - GSMC"	Step
+O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Cadillac Mobile Canada EN - Tools XT5 - GMCA - GSMC"	Step
+P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName like "Cadillac Canada EN - Model Overview*" or usersession.browserMonitorName like "Cadillac Canada FR - Model Overview*"	Monitor
+Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName like "Cadillac Mobile Canada EN - Model Overview*" or usersession.browserMonitorName like "Cadillac Mobile Canada FR - Model Overview*"	Monitor
+R	6	Synthetic - GSMC,Brand (Synthetic):Cadillac,Country (Synthetic):Canada	1026	0
