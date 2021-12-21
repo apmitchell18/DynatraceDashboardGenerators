@@ -5,27 +5,27 @@
   "dashboards_to_generate": [
     {
       "dashboard_data_file": "config_buick_mexico.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Mexico - Buick",
-      "existing_id": "N/A"
+      "existing_id": "15f4b6c6-a4bb-4e5f-9d95-8b0203f90cbc"
     },
     {
       "dashboard_data_file": "config_cadillac_mexico.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Mexico - Cadillac",
-      "existing_id": "N/A"
+      "existing_id": "f08978a4-f31e-4ac4-a9dd-3b4944bcb3dc"
     },
     {
       "dashboard_data_file": "config_chevrolet_mexico.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Mexico - Chevrolet",
-      "existing_id": "N/A"
+      "existing_id": "a09ae261-2557-42be-a872-f574f03f4fc6"
     },
     {
       "dashboard_data_file": "config_gmc_mexico.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Mexico - GMC",
-      "existing_id": "N/A"
+      "existing_id": "6a298b52-c270-420a-9d8f-576d6d97a4b2"
     }
   ]
 }
