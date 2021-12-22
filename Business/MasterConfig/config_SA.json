@@ -5,27 +5,27 @@
   "dashboards_to_generate": [
     {
       "dashboard_data_file": "config_chevrolet_arg.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Argentina - Chevrolet",
-      "existing_id": "N/A"
+      "existing_id": "ef521a50-e2f8-46f1-aede-25da5f9ba831"
     },
     {
       "dashboard_data_file": "config_chevrolet_br.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Brazil - Chevrolet",
-      "existing_id": "N/A"
+      "existing_id": "7e0cbc94-65f0-48f7-bd3d-0f398259e46d"
     },
     {
       "dashboard_data_file": "config_chevrolet_colombia.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Colombia - Chevrolet",
-      "existing_id": "N/A"
+      "existing_id": "59a0146b-5096-441e-9f90-20ea267b9724"
     },
     {
       "dashboard_data_file": "config_chevrolet_sa_west.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - South America West - Chevrolet",
-      "existing_id": "N/A"
+      "existing_id": "433cb6a5-70f4-40ad-92e9-0902066ab733"
     }
   ]
 }
