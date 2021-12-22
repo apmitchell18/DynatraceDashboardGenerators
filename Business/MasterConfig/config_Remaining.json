@@ -17,39 +17,39 @@
     },
     {
       "dashboard_data_file": "config_chevrolet_kor.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Korea - Chevrolet",
-      "existing_id": "N/A"
+      "existing_id": "223c3366-97f3-4626-905a-06380fdac44c"
     },
     {
       "dashboard_data_file": "config_cadillac_me.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Middle East - Cadillac",
-      "existing_id": "N/A"
+      "existing_id": "b4466832-cd17-42eb-a12f-7dcbab8c0387"
     },
     {
       "dashboard_data_file": "config_chevrolet_me.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Middle East - Chevrolet",
-      "existing_id": "N/A"
+      "existing_id": "2800cbc1-e2d7-4de7-bba3-afeee6141037"
     },
     {
       "dashboard_data_file": "config_gmc_me.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Middle East - GMC",
-      "existing_id": "N/A"
+      "existing_id": "485ad1d4-7a26-484a-af46-60c79b0b1675"
     },
     {
       "dashboard_data_file": "config_cadillac_europe.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Europe - Cadillac",
-      "existing_id": "N/A"
+      "existing_id": "7a8fe481-c248-47e3-9a03-fb1e906423aa"
     },
     {
       "dashboard_data_file": "config_chevrolet_europe.csv",
-      "is_new": true,
+      "is_new": false,
       "new_dashboard_name": "Business Overview - Europe - Chevrolet",
-      "existing_id": "N/A"
+      "existing_id": "02fb5ae2-ce22-44c1-a758-55bb6afb808f"
     }
   ]
 }
