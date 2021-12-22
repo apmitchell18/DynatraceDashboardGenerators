@@ -3,21 +3,21 @@ H2	0	Overview Pages	0	1786
 H3	0	Shopping Tools - Desktop	0	494
 H4	0	Shopping Tools - Mobile	0	1102
 H5	0	Test Summary	988	0
-A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Brazil - BYO Cruze - GMSA", "Chevrolet Brazil - Model Overview Cruze - GMSA",  "Chevrolet Brazil - Tools - GMSA")	Step
-B	2	Buick Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Brazil - BYO Cruze - GMSA", "Chevrolet Brazil - Model Overview Cruze - GMSA",  "Chevrolet Brazil - Tools - GMSA")	Step
-C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Brazil - BYO Cruze - GMSA", "Chevrolet Mobile Brazil - Model Overview Cruze - GMSA", "Chevrolet Mobile Brazil - RAQ - GMSA")	Step
-D	2	Buick Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Brazil - BYO Cruze - GMSA", "Chevrolet Mobile Brazil - Model Overview Cruze - GMSA", "Chevrolet Mobile Brazil - RAQ - GMSA")	Step
-E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Versions", "LNV: Results", "LAD: Results", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("Chevrolet Brazil - BYO Cruze - GMSA", "Chevrolet Brazil - Model Overview Cruze - GMSA",  "Chevrolet Brazil - Tools - GMSA")	Step
-F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results", "LAD: Results", "RAQ: Form Entry","BYO: Step 1: Versions")	usersession.browserMonitorName in ("Chevrolet Mobile Brazil - BYO Cruze - GMSA", "Chevrolet Mobile Brazil - Model Overview Cruze - GMSA", "Chevrolet Mobile Brazil - RAQ - GMSA")	Step
-G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Versions"	usersession.browserMonitorName = "Chevrolet Brazil - BYO Cruze - GMSA"	Step
-H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Brazil - Tools - GMSA"	Step
-I	4	LNV Results - Desktop	646	342	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "N/A"	Step
-J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Chevrolet Brazil - Tools - GMSA"	Step
-K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Brazil - Tools - GMSA"	Step
-L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Mobile Brazil - RAQ - GMSA"	Step
-M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Versions"	usersession.browserMonitorName = "Chevrolet Mobile Brazil - BYO Cruze - GMSA"	Step
-N	4	LNV Results - Mobile	646	950	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "Chevrolet Mobile Brazil - RAQ - GMSA"	Step
-O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Mobile Brazil - RAQ - GMSA"	Step
-P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Chevrolet Brazil - Model Overview Cruze - GMSA", "Chevrolet Brazil - Model Overview Onix - GMSA", "Chevrolet Brazil - Model Overview Tracker - GMSA", "Chevrolet Brazil - Model Overview Spin - GMSA")	Monitor
-Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Chevrolet Mobile Brazil - Model Overview Cruze - GMSA", "Chevrolet Mobile Brazil - Model Overview Onix - GMSA", "Chevrolet Mobile Brazil - Model Overview Spin - GMSA", "Chevrolet Mobile Brazil - Model Overview Tracker - GMSA")	Monitor
-R	6
+A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Brazil - Model Overview Spin - GMSA - GSMC",  "Chevrolet Brazil - Tools - GMSA - GSMC")	Step
+B	2	Buick Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Brazil - Model Overview Spin - GMSA - GSMC",  "Chevrolet Brazil - Tools - GMSA - GSMC")	Step
+C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Brazil - Model Overview Spin - GMSA - GSMC", "Chevrolet Mobile Brazil - RAQ - GMSA - GSMC")	Step
+D	2	Buick Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Brazil - Model Overview Spin - GMSA - GSMC", "Chevrolet Mobile Brazil - RAQ - GMSA - GSMC")	Step
+E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Versions", "RATD: Form Entry", "LAD: Results", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("Chevrolet Brazil - Model Overview Spin - GMSA - GSMC",  "Chevrolet Brazil - Tools - GMSA - GSMC")	Step
+F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results", "LAD: Results", "RAQ: Form Entry","Offers: Results")	usersession.browserMonitorName in ("Chevrolet Mobile Brazil - Model Overview Spin - GMSA - GSMC", "Chevrolet Mobile Brazil - RAQ - GMSA - GSMC")	Step
+G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Versions"	usersession.browserMonitorName = "N/A"	Step
+H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Brazil - Tools - GMSA - GSMC"	Step
+I	4	RATD - Desktop	646	342	syntheticEvent = "RATD: Form Entry"	usersession.browserMonitorName = "Chevrolet Brazil - Tools - GMSA - GSMC"	Step
+J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Chevrolet Brazil - Tools - GMSA - GSMC"	Step
+K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Brazil - Tools - GMSA - GSMC"	Step
+L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Mobile Brazil - RAQ - GMSA - GSMC"	Step
+M	4	Offers Results - Mobile	494	1216	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Chevrolet Mobile Brazil - RAQ - GMSA - GSMC"	Step
+N	4	RATD - Mobile	646	950	syntheticEvent = "RATD: Form Entry"	usersession.browserMonitorName = "Chevrolet Mobile Brazil - RAQ - GMSA - GSMC"	Step
+O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Mobile Brazil - RAQ - GMSA - GSMC"	Step
+P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName like "Chevrolet Brazil - Model Overview*"	Monitor
+Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName like "Chevrolet Mobile Brazil - Model Overview*"	Monitor
+R	6	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Brazil	1026	0

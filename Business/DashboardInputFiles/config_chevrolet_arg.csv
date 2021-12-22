@@ -3,21 +3,21 @@ H2	0	Overview Pages	0	1786
 H3	0	Shopping Tools - Desktop	0	494
 H4	0	Shopping Tools - Mobile	0	1102
 H5	0	Test Summary	988	0
-A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Argentina - Model Overview Cruze - GMSA",  "Chevrolet Argentina - Tools - GMSA")	Step
-B	2	Buick Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Argentina - Model Overview Cruze - GMSA",  "Chevrolet Argentina - Tools - GMSA")	Step
-C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Argentina - Model Overview Cruze - GMSA", "Chevrolet Mobile Argentina - Tools - GMSA")	Step
-D	2	Buick Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Argentina - Model Overview Cruze - GMSA", "Chevrolet Mobile Argentina - Tools - GMSA")	Step
-E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Trim", "LNV: Results", "LAD: Results", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("Chevrolet Argentina - Tools - GMSA")	Step
-F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("LNV: Results", "LAD: Results", "RAQ: Form Entry","BYO: Step 1: Trim")	usersession.browserMonitorName In("Chevrolet Mobile Argentina - Tools - GMSA")	Step
-G	4	BYO Trim - Desktop	494	342	syntheticEvent = "BYO: Step 1: Trim"	usersession.browserMonitorName = "N/A"	Step
-H	4	LAD Results - Desktop	494	608	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Argentina - Tools - GMSA"	Step
-I	4	LNV Results - Desktop	646	342	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "N/A"	Step
-J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Chevrolet Argentina - Tools - GMSA"	Step
-K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Argentina - Tools - GMSA"	Step
-L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Mobile Argentina - Tools - GMSA"	Step
-M	4	BYO Trim - Mobile	494	1216	syntheticEvent = "BYO: Step 1: Trim"	usersession.browserMonitorName = "N/A"	Step
-N	4	LNV Results - Mobile	646	950	syntheticEvent = "LNV: Results"	usersession.browserMonitorName = "Chevrolet Mobile Argentina - Tools - GMSA"	Step
-O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Mobile Argentina - Tools - GMSA"	Step
-P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Chevrolet Argentina - Model Overview Cruze - GMSA", "Chevrolet Argentina - Model Overview Equinox - GMSA", "Chevrolet Argentina - Model Overview Onix - GMSA", "Chevrolet Argentina - Model Overview Prisma Joy - GMSA")	Monitor
-Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName in ("Chevrolet Mobile Argentina - Model Overview Cruze - GMSA", "Chevrolet Mobile Argentina - Model Overview Equinox - GMSA", "Chevrolet Mobile Argentina - Model Overview Onix - GMSA", "Chevrolet Mobile Argentina - Model Overview Prisma Joy - GMSA")	Monitor
-R	6	Status	1026	0	Chevrolet,Argentina
+A	1	Home Page - Desktop	38	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Argentina - Model Overview Spin - GMSA - GSMC",  "Chevrolet Argentina - Tools - GMSA - GSMC")	Step
+B	2	Buick Home Page - Desktop	342	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Argentina - Model Overview Spin - GMSA - GSMC",  "Chevrolet Argentina - Tools - GMSA - GSMC")	Step
+C	1	Home Page - Mobile	494	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Argentina - Model Overview Spin - GMSA - GSMC", "Chevrolet Mobile Argentina - Tools - GMSA - GSMC")	Step
+D	2	Buick Home Page - Mobile	798	0	syntheticEvent = "Home"	usersession.browserMonitorName in ("Chevrolet Mobile Argentina - Model Overview Spin - GMSA - GSMC", "Chevrolet Mobile Argentina - Tools - GMSA - GSMC")	Step
+E	3	Shopping Tools - Desktop	38	304	syntheticEvent in ( "BYO: Step 1: Trim", "RATD: Form Entry", "LAD: Results", "RAQ: Form Entry", "Offers: Results")	usersession.browserMonitorName in ("Chevrolet Argentina - Tools - GMSA - GSMC")	Step
+F	3	Shopping Tools - Mobile	38	912	syntheticEvent in ("RATD: Form Entry", "LAD: Results", "RAQ: Form Entry","Offers: Results")	usersession.browserMonitorName In("Chevrolet Mobile Argentina - Tools - GMSA - GSMC")	Step
+G	4	LAD Results - Desktop	494	342	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Argentina - Tools - GMSA - GSMC"	Step
+H	4	RAQ - Desktop	494	608	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Argentina - Tools - GMSA - GSMC"	Step
+I	4	RATD - Desktop	646	342	syntheticEvent = "RATD: Form Entry"	usersession.browserMonitorName = "Chevrolet Argentina - Tools - GMSA - GSMC"	Step
+J	4	Offers - Desktop	646	608	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Chevrolet Argentina - Tools - GMSA - GSMC"	Step
+K	4	RAQ - Desktop	798	494	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Argentina - Tools - GMSA - GSMC"	Step
+L	4	LAD Results - Mobile	494	950	syntheticEvent = "LAD: Results"	usersession.browserMonitorName = "Chevrolet Mobile Argentina - Tools - GMSA - GSMC"	Step
+M	4	RATD - Mobile	494	1216	syntheticEvent = "RATD: Form Entry"	usersession.browserMonitorName = "Chevrolet Mobile Argentina - Tools - GMSA - GSMC"	Step
+N	4	Offers - Mobile	646	950	syntheticEvent = "Offers: Results"	usersession.browserMonitorName = "Chevrolet Mobile Argentina - Tools - GMSA - GSMC"	Step
+O	4	RAQ - Mobile	646	1216	syntheticEvent = "RAQ: Form Entry"	usersession.browserMonitorName = "Chevrolet Mobile Argentina - Tools - GMSA - GSMC"	Step
+P	5	Overviews - Desktop	38	1520	syntheticEvent = "Overview"	usersession.browserMonitorName like "Chevrolet Argentina - Model Overview*"	Monitor
+Q	5	Overviews - Mobile	608	1520	syntheticEvent = "Overview"	usersession.browserMonitorName like "Chevrolet Mobile Argentina - Model Overview*"	Monitor
+R	6	Synthetic - GSMC,Brand (Synthetic):Chevrolet,Country (Synthetic):Argentina	1026	0
